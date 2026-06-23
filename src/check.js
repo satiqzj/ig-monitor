@@ -35,7 +35,6 @@ async function downloadImage(url, dest) {
 
 async function main() {
   const apifyToken = process.env.APIFY_TOKEN;
-  const anthropicKey = process.env.ANTHROPIC_API_KEY;
 
   const accounts = loadJson(ACCOUNTS_FILE, []);
   if (!accounts.length) {
@@ -86,7 +85,7 @@ async function main() {
 
       // 3) AI 摘要
       let summary;
-      try { summary = await summarize(post, catByHandle[handle], anthropicKey); }
+      try { summary = await summarize(post, catByHandle[handle]); }
       catch (e) { summary = "（摘要失敗：" + e.message + "）"; }
 
       // 4) 存 metadata

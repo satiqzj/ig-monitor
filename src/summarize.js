@@ -1,37 +1,55 @@
-// 用 Claude 把一則 IG 貼文濃縮成簡短中文摘要。
-// 需要：環境變數 ANTHROPIC_API_KEY（沒有的話會略過摘要，仍會存圖片與文字）
-// 模型：claude-opus-4-8（要更省錢可改成 claude-haiku-4-5）
-const MODEL = "claude-opus-4-8";
+// 用 AI 把一則 IG 貼文濃縮成簡短中文摘要（泰文/英文也會幫你看懂）。
+// 可換引擎，依環境變數自動選：
+//   有 GEMINI_API_KEY      → 用 Google Gemini（有免費額度，推薦）
+//   有 ANTHROPIC_API_KEY   → 用 Claude（claude-opus-4-8，付費）
+//   兩者都沒有              → 跳過摘要，仍會存圖片與文字
+const CLAUDE_MODEL = "claude-opus-4-8";
+const GEMINI_MODEL = "gemini-2.0-flash";
 
 const SYSTEM =
   "你是社群小編助理。把一則 Instagram 貼文濃縮成 2–3 句繁體中文摘要，明確點出：" +
   "(1) 這是什麼（活動／展覽／市集／咖啡廳）；" +
   "(2) 若文中有時間、地點、價格、報名方式就寫出來；" +
   "(3) 適不適合約會、為什麼。" +
+  "若貼文是泰文或英文，請直接用中文摘要其內容。" +
   "沒有提到的資訊不要編造。只輸出摘要本身，不要任何前言或說明。";
 
-async function summarize(post, category, key) {
-  if (!key) return "（未設定 ANTHROPIC_API_KEY，略過 AI 摘要）";
+function buildPrompt(post, category) {
+  return `帳號分類：${category || "未分類"}\n貼文內容：\n${(post.caption || "（這則貼文沒有文字）").slice(0, 4000)}`;
+}
 
-  const body = {
-    model: MODEL,
-    max_tokens: 350,
-    output_config: { effort: "low" },   // 摘要任務用低 effort 控制成本
-    system: SYSTEM,
-    messages: [{
-      role: "user",
-      content: `帳號分類：${category || "未分類"}\n貼文內容：\n${(post.caption || "（這則貼文沒有文字）").slice(0, 4000)}`,
-    }],
-  };
+// Google Gemini（免費額度）
+async function viaGemini(post, category, key) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${encodeURIComponent(key)}`;
+  const res = await fetch(url, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({
+      systemInstruction: { parts: [{ text: SYSTEM }] },
+      contents: [{ parts: [{ text: buildPrompt(post, category) }] }],
+      generationConfig: { maxOutputTokens: 500, temperature: 0.4 },
+    }),
+  });
+  const data = await res.json();
+  if (!res.ok) throw new Error((data.error && data.error.message) || ("HTTP " + res.status));
+  const cand = data.candidates && data.candidates[0];
+  const parts = cand && cand.content && cand.content.parts;
+  const text = parts ? parts.map(p => p.text || "").join("").trim() : "";
+  return text || "（無摘要）";
+}
 
+// Anthropic Claude（付費）
+async function viaClaude(post, category, key) {
   const res = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
-    headers: {
-      "content-type": "application/json",
-      "x-api-key": key,
-      "anthropic-version": "2023-06-01",
-    },
-    body: JSON.stringify(body),
+    headers: { "content-type": "application/json", "x-api-key": key, "anthropic-version": "2023-06-01" },
+    body: JSON.stringify({
+      model: CLAUDE_MODEL,
+      max_tokens: 350,
+      output_config: { effort: "low" },
+      system: SYSTEM,
+      messages: [{ role: "user", content: buildPrompt(post, category) }],
+    }),
   });
   const data = await res.json();
   if (!res.ok) throw new Error((data.error && data.error.message) || ("HTTP " + res.status));
@@ -40,4 +58,12 @@ async function summarize(post, category, key) {
   return textBlock ? textBlock.text.trim() : "（無摘要）";
 }
 
-module.exports = { summarize, MODEL };
+async function summarize(post, category) {
+  const geminiKey = process.env.GEMINI_API_KEY;
+  const anthropicKey = process.env.ANTHROPIC_API_KEY;
+  if (geminiKey) return viaGemini(post, category, geminiKey);
+  if (anthropicKey) return viaClaude(post, category, anthropicKey);
+  return "（未設定 AI 金鑰（GEMINI_API_KEY 或 ANTHROPIC_API_KEY），略過 AI 摘要）";
+}
+
+module.exports = { summarize, GEMINI_MODEL, CLAUDE_MODEL };

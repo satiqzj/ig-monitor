@@ -24,8 +24,10 @@ function needsSummary(s) {
 }
 
 async function main() {
-  if (!process.env.GEMINI_API_KEY && !process.env.ANTHROPIC_API_KEY) {
-    console.error("沒有設定 GEMINI_API_KEY 或 ANTHROPIC_API_KEY，無法摘要。");
+  const hasEngine = process.env.GROQ_API_KEY || process.env.GEMINI_API_KEY ||
+    process.env.ANTHROPIC_API_KEY || process.env.GITHUB_MODELS_TOKEN || process.env.GITHUB_TOKEN;
+  if (!hasEngine) {
+    console.error("沒有可用的摘要引擎（GROQ / GEMINI / ANTHROPIC / GitHub Models 皆未設定）。");
     process.exit(1);
   }
   if (!fs.existsSync(DATA)) { console.error("找不到 data/ 資料夾，還沒有抓過貼文。"); process.exit(1); }

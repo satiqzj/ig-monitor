@@ -1,0 +1,13 @@
+{
+  "name": "ig-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "每天檢查追蹤的 IG 帳號是否有新貼文，存圖片 + 文字並用 Claude 摘要（Apify + GitHub Actions）",
+  "scripts": {
+    "check": "node src/check.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

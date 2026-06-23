@@ -17,5 +17,12 @@
     "data/timeoutbangkok/DZ4YLLIExgo/image_9.jpg",
     "data/timeoutbangkok/DZ4YLLIExgo/image_10.jpg"
   ],
-  "summary": "（摘要失敗：Unexpected token 'T', \"Too many r\"... is not valid JSON）"
+  "summary": "這裡是曼谷的一個藝術展覽地點，擁有多樣的獨立空間和前衛畫廊，適合藝術愛好者。若你喜歡探索藝術，這裡非常適合約會。",
+  "place": "曼谷藝術展覽",
+  "vibe_tags": [
+    "文青",
+    "熱鬧",
+    "靜謐"
+  ],
+  "date_score": 8
 }

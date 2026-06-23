@@ -8,5 +8,12 @@
   "images": [
     "data/aj_some_more/DZztrybSj5e/image_1.jpg"
   ],
-  "summary": "這是一家位於曼谷的咖啡廳，名為 Sindhorn Midtown Hotel Bangkok，提供寬敞的套房、天際泳池和美味早餐。適合約會，因為有浪漫的屋頂日落景觀。"
+  "summary": "這是一家位於曼谷的酒店，提供寬敞的套房和美麗的天際線泳池，適合約會時享受浪漫的時光。酒店還提供豐盛的早餐，讓你們的早晨更加美好。",
+  "place": "Sindhorn Midtown Hotel Bangkok",
+  "vibe_tags": [
+    "浪漫",
+    "靜謐",
+    "舒適"
+  ],
+  "date_score": 8
 }

@@ -8,5 +8,12 @@
   "images": [
     "data/richie_got_you/DZnBJl-TA4u/image_1.jpg"
   ],
-  "summary": "這是一個位於曼谷的燈光展覽「Cave Fantasy」。適合約會，因為浪漫的燈光氛圍能增添情感。"
+  "summary": "這是一個位於曼谷的燈光展覽，名為Cave Fantasy，非常適合約會。遊客可以在這裡欣賞到美麗的燈光藝術，營造出浪漫的氛圍。",
+  "place": "Cave Fantasy",
+  "vibe_tags": [
+    "浪漫",
+    "戶外",
+    "熱鬧"
+  ],
+  "date_score": 8
 }

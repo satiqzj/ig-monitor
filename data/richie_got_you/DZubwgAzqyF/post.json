@@ -8,5 +8,12 @@
   "images": [
     "data/richie_got_you/DZubwgAzqyF/image_1.jpg"
   ],
-  "summary": "這是一家位於清邁的咖啡廳，名為Ying Yong Flower Garden（ยิ่งยงสวนดอกไม้），提供美麗的拍照景點。適合約會，因為環境優美，適合享受浪漫時光。"
+  "summary": "這是一個位於清邁的美麗花園，非常適合拍照。這裡的環境優美，適合約會時享受戶外的浪漫氛圍。",
+  "place": "Ying Yong Flower Garden",
+  "vibe_tags": [
+    "文青",
+    "戶外",
+    "浪漫"
+  ],
+  "date_score": 8
 }

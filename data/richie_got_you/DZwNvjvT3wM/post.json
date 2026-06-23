@@ -8,5 +8,11 @@
   "images": [
     "data/richie_got_you/DZwNvjvT3wM/image_1.jpg"
   ],
-  "summary": "（摘要失敗：Unexpected token 'T', \"Too many r\"... is not valid JSON）"
+  "summary": "這則貼文提到對曼谷的旅行期待，適合喜歡旅遊的情侶。雖然沒有具體的地點或活動，但曼谷有許多適合約會的咖啡廳和景點。",
+  "place": "曼谷",
+  "vibe_tags": [
+    "文青",
+    "浪漫"
+  ],
+  "date_score": 6
 }

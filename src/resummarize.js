@@ -51,7 +51,9 @@ async function main() {
       const caption = readCaption(dir);
       const category = catByHandle[handle] || meta.category || "";
 
-      if (needsSummary(meta.summary)) {
+      // 摘要缺失/失敗，或舊格式（沒有結構化的 date_score 欄位）→ 重做
+      const stale = needsSummary(meta.summary) || !("date_score" in meta);
+      if (stale) {
         let ai;
         try { ai = await summarize({ caption }, category); }
         catch (e) { ai = { place: "", vibe_tags: [], date_score: null, summary: "（分析失敗：" + e.message + "）" }; }

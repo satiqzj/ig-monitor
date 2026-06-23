@@ -15,6 +15,7 @@ const DATA = path.join(ROOT, "data");
 const DIGESTS = path.join(ROOT, "digests");
 const ACCOUNTS_FILE = path.join(ROOT, "accounts.json");
 
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 function ymd(d = new Date()) { return d.toISOString().slice(0, 10); }
 function loadJson(f, d) { try { return JSON.parse(fs.readFileSync(f, "utf8")); } catch (_) { return d; } }
 function readCaption(dir) { try { return fs.readFileSync(path.join(dir, "caption.txt"), "utf8"); } catch (_) { return ""; } }
@@ -53,6 +54,7 @@ async function main() {
         fs.writeFileSync(pjPath, JSON.stringify(meta, null, 2), "utf8");
         updated++;
         console.log(`  ✔ @${handle}/${short}`);
+        await sleep(1500);   // 節流，避免一次打太多被限流
       }
       entries.push({ handle, category, meta, caption });
     }

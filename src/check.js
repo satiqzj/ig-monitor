@@ -21,6 +21,7 @@ const ACCOUNTS_FILE = path.join(ROOT, "accounts.json");
 const PER_ACCOUNT = 12;          // 每次每帳號抓最近幾則來比對
 const MAX_NEW_PER_ACCOUNT = 5;   // 每次每帳號最多「處理」幾則新貼文；其餘只標記為已看，避免首次跑爆量
 
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 function loadJson(file, dflt) {
   try { return JSON.parse(fs.readFileSync(file, "utf8")); } catch (_) { return dflt; }
 }
@@ -87,6 +88,7 @@ async function main() {
       let summary;
       try { summary = await summarize(post, catByHandle[handle]); }
       catch (e) { summary = "（摘要失敗：" + e.message + "）"; }
+      await sleep(1200);   // 節流，避免一次打太多被限流
 
       // 4) 存 metadata
       fs.writeFileSync(path.join(dir, "post.json"), JSON.stringify({

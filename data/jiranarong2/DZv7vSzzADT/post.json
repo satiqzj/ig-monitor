@@ -8,5 +8,5 @@
   "images": [
     "data/jiranarong2/DZv7vSzzADT/image_1.jpg"
   ],
-  "summary": "（摘要失敗：You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 45.291727322s.）"
+  "summary": "這是一則關於新開的餐廳「阿公豬腳飯」的介紹。餐廳位於哈耶，與「雙雲」麵店相鄰，提供中藥燉豬腳，適合約會，因為可以享受美味的餐點和輕鬆的用餐氛圍。"
 }

@@ -8,5 +8,5 @@
   "images": [
     "data/timeoutbangkok/DZ69XYOm2Y7/image_1.jpg"
   ],
-  "summary": "（摘要失敗：You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 44.245440236s.）"
+  "summary": "TCDC舉辦的「Stationerycore: A Love Affair with Stationery」市集，專為紙類愛好者設計，展出各式筆記本、文具及泰國設計。活動時間為7月1日至10月18日，每天10:30至19:00（週一休息），地點在曼谷Bang Rak的TCDC五樓，免費入場。適合約會，因為可以一起探索創意與設計，增進互動。"
 }

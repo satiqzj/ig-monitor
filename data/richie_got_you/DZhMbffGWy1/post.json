@@ -1,0 +1,15 @@
+{
+  "handle": "richie.got.you",
+  "category": "咖啡廳",
+  "shortCode": "DZhMbffGWy1",
+  "postUrl": "https://www.instagram.com/p/DZhMbffGWy1/",
+  "timestamp": "2026-06-13T08:03:06.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/richie_got_you/DZhMbffGWy1/image_1.jpg",
+    "data/richie_got_you/DZhMbffGWy1/image_2.jpg",
+    "data/richie_got_you/DZhMbffGWy1/image_3.jpg",
+    "data/richie_got_you/DZhMbffGWy1/image_4.jpg"
+  ],
+  "summary": "（未設定 ANTHROPIC_API_KEY，略過 AI 摘要）"
+}

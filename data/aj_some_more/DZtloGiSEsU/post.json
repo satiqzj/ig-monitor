@@ -1,0 +1,12 @@
+{
+  "handle": "aj.some.more",
+  "category": "咖啡廳",
+  "shortCode": "DZtloGiSEsU",
+  "postUrl": "https://www.instagram.com/p/DZtloGiSEsU/",
+  "timestamp": "2026-06-18T03:35:21.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DZtloGiSEsU/image_1.jpg"
+  ],
+  "summary": "（未設定 ANTHROPIC_API_KEY，略過 AI 摘要）"
+}

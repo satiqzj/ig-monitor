@@ -1,0 +1,17 @@
+{
+  "handle": "richie.got.you",
+  "category": "咖啡廳",
+  "shortCode": "DZerIDFGfj3",
+  "postUrl": "https://www.instagram.com/p/DZerIDFGfj3/",
+  "timestamp": "2026-06-12T08:33:36.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/richie_got_you/DZerIDFGfj3/image_1.jpg",
+    "data/richie_got_you/DZerIDFGfj3/image_2.jpg",
+    "data/richie_got_you/DZerIDFGfj3/image_3.jpg",
+    "data/richie_got_you/DZerIDFGfj3/image_4.jpg",
+    "data/richie_got_you/DZerIDFGfj3/image_5.jpg",
+    "data/richie_got_you/DZerIDFGfj3/image_6.jpg"
+  ],
+  "summary": "（未設定 ANTHROPIC_API_KEY，略過 AI 摘要）"
+}

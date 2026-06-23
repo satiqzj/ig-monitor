@@ -1,0 +1,15 @@
+{
+  "handle": "jiranarong2",
+  "category": "展覽",
+  "shortCode": "DZ2FynsE-6S",
+  "postUrl": "https://www.instagram.com/p/DZ2FynsE-6S/",
+  "timestamp": "2026-06-21T10:49:08.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/jiranarong2/DZ2FynsE-6S/image_1.jpg",
+    "data/jiranarong2/DZ2FynsE-6S/image_2.jpg",
+    "data/jiranarong2/DZ2FynsE-6S/image_3.jpg",
+    "data/jiranarong2/DZ2FynsE-6S/image_4.jpg"
+  ],
+  "summary": "（未設定 ANTHROPIC_API_KEY，略過 AI 摘要）"
+}

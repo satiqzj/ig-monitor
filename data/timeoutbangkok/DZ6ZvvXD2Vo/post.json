@@ -1,0 +1,16 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "DZ6ZvvXD2Vo",
+  "postUrl": "https://www.instagram.com/p/DZ6ZvvXD2Vo/",
+  "timestamp": "2026-06-23T03:00:28.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/timeoutbangkok/DZ6ZvvXD2Vo/image_1.jpg",
+    "data/timeoutbangkok/DZ6ZvvXD2Vo/image_2.jpg",
+    "data/timeoutbangkok/DZ6ZvvXD2Vo/image_3.jpg",
+    "data/timeoutbangkok/DZ6ZvvXD2Vo/image_4.jpg",
+    "data/timeoutbangkok/DZ6ZvvXD2Vo/image_5.jpg"
+  ],
+  "summary": "（未設定 ANTHROPIC_API_KEY，略過 AI 摘要）"
+}

@@ -1,0 +1,19 @@
+{
+  "handle": "lifestyleasiath",
+  "category": "咖啡廳",
+  "shortCode": "DZ6s_INE0X7",
+  "postUrl": "https://www.instagram.com/p/DZ6s_INE0X7/",
+  "timestamp": "2026-06-23T05:48:36.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/lifestyleasiath/DZ6s_INE0X7/image_1.jpg",
+    "data/lifestyleasiath/DZ6s_INE0X7/image_2.jpg",
+    "data/lifestyleasiath/DZ6s_INE0X7/image_3.jpg",
+    "data/lifestyleasiath/DZ6s_INE0X7/image_4.jpg",
+    "data/lifestyleasiath/DZ6s_INE0X7/image_5.jpg",
+    "data/lifestyleasiath/DZ6s_INE0X7/image_6.jpg",
+    "data/lifestyleasiath/DZ6s_INE0X7/image_7.jpg",
+    "data/lifestyleasiath/DZ6s_INE0X7/image_8.jpg"
+  ],
+  "summary": "（未設定 ANTHROPIC_API_KEY，略過 AI 摘要）"
+}

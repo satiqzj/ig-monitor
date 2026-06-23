@@ -1,0 +1,21 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "DZ4YLLIExgo",
+  "postUrl": "https://www.instagram.com/p/DZ4YLLIExgo/",
+  "timestamp": "2026-06-22T08:08:15.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/timeoutbangkok/DZ4YLLIExgo/image_1.jpg",
+    "data/timeoutbangkok/DZ4YLLIExgo/image_2.jpg",
+    "data/timeoutbangkok/DZ4YLLIExgo/image_3.jpg",
+    "data/timeoutbangkok/DZ4YLLIExgo/image_4.jpg",
+    "data/timeoutbangkok/DZ4YLLIExgo/image_5.jpg",
+    "data/timeoutbangkok/DZ4YLLIExgo/image_6.jpg",
+    "data/timeoutbangkok/DZ4YLLIExgo/image_7.jpg",
+    "data/timeoutbangkok/DZ4YLLIExgo/image_8.jpg",
+    "data/timeoutbangkok/DZ4YLLIExgo/image_9.jpg",
+    "data/timeoutbangkok/DZ4YLLIExgo/image_10.jpg"
+  ],
+  "summary": "（未設定 ANTHROPIC_API_KEY，略過 AI 摘要）"
+}

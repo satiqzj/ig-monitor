@@ -11,6 +11,7 @@ const fs = require("fs");
 const path = require("path");
 const { fetchRecentPosts } = require("./fetchInstagram");
 const { summarize } = require("./summarize");
+const { buildFeed } = require("./feed");
 
 const ROOT = path.join(__dirname, "..");
 const DATA = path.join(ROOT, "data");
@@ -84,20 +85,20 @@ async function main() {
         }
       }
 
-      // 3) AI 摘要
-      let summary;
-      try { summary = await summarize(post, catByHandle[handle]); }
-      catch (e) { summary = "（摘要失敗：" + e.message + "）"; }
+      // 3) AI 分析（結構化：place / vibe_tags / date_score / summary）
+      let ai;
+      try { ai = await summarize(post, catByHandle[handle]); }
+      catch (e) { ai = { place: "", vibe_tags: [], date_score: null, summary: "（分析失敗：" + e.message + "）" }; }
       await sleep(1200);   // 節流，避免一次打太多被限流
 
       // 4) 存 metadata
       fs.writeFileSync(path.join(dir, "post.json"), JSON.stringify({
         handle, category: catByHandle[handle], shortCode: post.shortCode,
         postUrl: post.postUrl, timestamp: post.timestamp, type: post.type,
-        images: savedImgs, summary,
+        images: savedImgs, place: ai.place, vibe_tags: ai.vibe_tags, date_score: ai.date_score, summary: ai.summary,
       }, null, 2), "utf8");
 
-      digestEntries.push({ handle, category: catByHandle[handle], post, summary, savedImgs });
+      digestEntries.push({ handle, category: catByHandle[handle], post, ai, savedImgs });
       seen.add(post.shortCode);
       totalNew++;
       console.log(`  ✔ @${handle} 新貼文 ${post.shortCode}`);
@@ -111,6 +112,7 @@ async function main() {
   }
 
   fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2), "utf8");
+  buildFeed(catByHandle);   // 更新給「約會地圖」app 讀的 feed.json
 
   if (totalNew) {
     fs.mkdirSync(DIGESTS, { recursive: true });
@@ -118,8 +120,12 @@ async function main() {
     let md = fs.existsSync(file) ? fs.readFileSync(file, "utf8") + "\n" : `# 📸 ${ymd()} IG 新貼文彙整\n\n`;
     for (const e of digestEntries) {
       const cap = (e.post.caption || "").replace(/\s+/g, " ").slice(0, 140);
+      const tags = (e.ai.vibe_tags || []).join("、");
       md += `## @${e.handle} · ${e.category}\n\n`;
-      md += `**AI 摘要：** ${e.summary}\n\n`;
+      if (e.ai.place) md += `**地點：** ${e.ai.place}　`;
+      if (e.ai.date_score != null) md += `**約會指數：** ${e.ai.date_score}/10　`;
+      if (tags) md += `**風格：** ${tags}`;
+      md += `\n\n**摘要：** ${e.ai.summary}\n\n`;
       if (e.savedImgs.length) md += `![貼文圖片](../${e.savedImgs[0]})\n\n`;
       if (cap) md += `> ${cap}${cap.length >= 140 ? "…" : ""}\n\n`;
       md += `🔗 ${e.post.postUrl}\n\n---\n\n`;

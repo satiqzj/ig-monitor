@@ -9,6 +9,7 @@
 const fs = require("fs");
 const path = require("path");
 const { summarize } = require("./summarize");
+const { buildFeed } = require("./feed");
 
 const ROOT = path.join(__dirname, "..");
 const DATA = path.join(ROOT, "data");
@@ -51,8 +52,10 @@ async function main() {
       const category = catByHandle[handle] || meta.category || "";
 
       if (needsSummary(meta.summary)) {
-        try { meta.summary = await summarize({ caption }, category); }
-        catch (e) { meta.summary = "（摘要失敗：" + e.message + "）"; }
+        let ai;
+        try { ai = await summarize({ caption }, category); }
+        catch (e) { ai = { place: "", vibe_tags: [], date_score: null, summary: "（分析失敗：" + e.message + "）" }; }
+        meta.place = ai.place; meta.vibe_tags = ai.vibe_tags; meta.date_score = ai.date_score; meta.summary = ai.summary;
         fs.writeFileSync(pjPath, JSON.stringify(meta, null, 2), "utf8");
         updated++;
         console.log(`  ✔ @${handle}/${short}`);
@@ -69,13 +72,18 @@ async function main() {
   let md = `# 📸 ${ymd()} IG 新貼文彙整（已補摘要）\n\n`;
   for (const e of entries) {
     const cap = (e.caption || "").replace(/\s+/g, " ").slice(0, 140);
+    const tags = (e.meta.vibe_tags || []).join("、");
     md += `## @${e.handle} · ${e.category}\n\n`;
-    md += `**AI 摘要：** ${e.meta.summary}\n\n`;
+    if (e.meta.place) md += `**地點：** ${e.meta.place}　`;
+    if (e.meta.date_score != null) md += `**約會指數：** ${e.meta.date_score}/10　`;
+    if (tags) md += `**風格：** ${tags}`;
+    md += `\n\n**摘要：** ${e.meta.summary}\n\n`;
     if (e.meta.images && e.meta.images.length) md += `![貼文圖片](../${e.meta.images[0]})\n\n`;
     if (cap) md += `> ${cap}${cap.length >= 140 ? "…" : ""}\n\n`;
     md += `🔗 ${e.meta.postUrl}\n\n---\n\n`;
   }
   fs.writeFileSync(file, md, "utf8");
+  buildFeed(catByHandle);   // 更新給「約會地圖」app 讀的 feed.json
   console.log(`\n完成：補了 ${updated} 則摘要，已重建 ${path.relative(ROOT, file)}`);
 }
 

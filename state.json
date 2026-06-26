@@ -1,7 +1,7 @@
 {
   "I.onbangkok": {
     "seen": [],
-    "lastRun": "2026-06-25T05:06:36.346Z"
+    "lastRun": "2026-06-26T05:09:27.276Z"
   },
   "bangkok_insiders": {
     "seen": [
@@ -12,7 +12,7 @@
       "DZ7t-63vmAw",
       "DZ7YHzCmCgG"
     ],
-    "lastRun": "2026-06-25T05:06:36.353Z"
+    "lastRun": "2026-06-26T05:09:27.280Z"
   },
   "jiranarong2": {
     "seen": [
@@ -29,7 +29,7 @@
       "DLph2WiTrBE",
       "Criw6g8LCuG"
     ],
-    "lastRun": "2026-06-25T05:06:36.354Z"
+    "lastRun": "2026-06-26T05:09:27.280Z"
   },
   "richie.got.you": {
     "seen": [
@@ -45,9 +45,10 @@
       "DZHwmObTi7s",
       "DZFR5N9ma5p",
       "DY6Ir4CSkBb",
-      "DZ7ozUvzhBK"
+      "DZ7ozUvzhBK",
+      "DaAwfEbTjcP"
     ],
-    "lastRun": "2026-06-25T05:06:36.354Z"
+    "lastRun": "2026-06-26T05:09:30.786Z"
   },
   "lifestyleasiath": {
     "seen": [
@@ -62,9 +63,13 @@
       "DZ83vYMmr74",
       "DZ_cjBCFQ0R",
       "DZ9u6JFljSv",
-      "DZ7J0Flk6hL"
+      "DZ7J0Flk6hL",
+      "DaCBV1NnHL7",
+      "DaAdm0OlVCu",
+      "DaATuaiFnBY",
+      "DZ__aQbTzeH"
     ],
-    "lastRun": "2026-06-25T05:06:50.937Z"
+    "lastRun": "2026-06-26T05:09:50.941Z"
   },
   "aj.some.more": {
     "seen": [
@@ -82,9 +87,10 @@
       "DZHoy39yCQm",
       "DZ7p3wZz522",
       "DZ_pE1bSW9p",
-      "DZ-LRUthQih"
+      "DZ-LRUthQih",
+      "DaCLBnZBzIT"
     ],
-    "lastRun": "2026-06-25T05:06:58.645Z"
+    "lastRun": "2026-06-26T05:10:20.727Z"
   },
   "timeoutbangkok": {
     "seen": [
@@ -105,8 +111,29 @@
       "DZ_jHpfm7TY",
       "DZ91fu0GxDP",
       "DZ9g9vjG8M3",
-      "DZ9Mw9sG-RQ"
+      "DZ9Mw9sG-RQ",
+      "DaCUDK-m1_B",
+      "DaCH2MrG_Wo",
+      "DaAgVCwG9lZ",
+      "DZ__z44m5MY"
     ],
-    "lastRun": "2026-06-25T05:07:22.878Z"
+    "lastRun": "2026-06-26T05:10:40.684Z"
+  },
+  "goplaybangkok": {
+    "seen": [
+      "DaAoCOIEtqR",
+      "DZ7eZ89SrUm",
+      "DZumcMCkvip",
+      "DZpczTTyg8u",
+      "DZck2ECkqR4",
+      "DZXbRKkSlBm",
+      "DZKjTpgkslz",
+      "DY4hsz8SdKP",
+      "DYzYKNUyqnl",
+      "DYmgMIZkpNF",
+      "DKKG2gTxt8P",
+      "C4xvXnnR6xB"
+    ],
+    "lastRun": "2026-06-26T05:10:17.071Z"
   }
 }

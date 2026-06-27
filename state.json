@@ -1,7 +1,7 @@
 {
   "I.onbangkok": {
     "seen": [],
-    "lastRun": "2026-06-26T05:09:27.276Z"
+    "lastRun": "2026-06-27T04:54:18.894Z"
   },
   "bangkok_insiders": {
     "seen": [
@@ -12,7 +12,7 @@
       "DZ7t-63vmAw",
       "DZ7YHzCmCgG"
     ],
-    "lastRun": "2026-06-26T05:09:27.280Z"
+    "lastRun": "2026-06-27T04:54:18.902Z"
   },
   "jiranarong2": {
     "seen": [
@@ -27,9 +27,10 @@
       "DYUkjQWzBvT",
       "DOPxb0YE7P-",
       "DLph2WiTrBE",
-      "Criw6g8LCuG"
+      "Criw6g8LCuG",
+      "DaDJ2QdkxhQ"
     ],
-    "lastRun": "2026-06-26T05:09:27.280Z"
+    "lastRun": "2026-06-27T04:54:24.825Z"
   },
   "richie.got.you": {
     "seen": [
@@ -48,7 +49,7 @@
       "DZ7ozUvzhBK",
       "DaAwfEbTjcP"
     ],
-    "lastRun": "2026-06-26T05:09:30.786Z"
+    "lastRun": "2026-06-27T04:54:24.826Z"
   },
   "lifestyleasiath": {
     "seen": [
@@ -67,9 +68,14 @@
       "DaCBV1NnHL7",
       "DaAdm0OlVCu",
       "DaATuaiFnBY",
-      "DZ__aQbTzeH"
+      "DZ__aQbTzeH",
+      "DaEmAqenKhA",
+      "DaDNRgmGLs8",
+      "DaC4fCRmFyj",
+      "DaCqf0Zk0Sk",
+      "DaCjh5gTj2g"
     ],
-    "lastRun": "2026-06-26T05:09:50.941Z"
+    "lastRun": "2026-06-27T04:54:46.638Z"
   },
   "aj.some.more": {
     "seen": [
@@ -90,7 +96,7 @@
       "DZ-LRUthQih",
       "DaCLBnZBzIT"
     ],
-    "lastRun": "2026-06-26T05:10:20.727Z"
+    "lastRun": "2026-06-27T04:54:46.638Z"
   },
   "timeoutbangkok": {
     "seen": [
@@ -115,9 +121,12 @@
       "DaCUDK-m1_B",
       "DaCH2MrG_Wo",
       "DaAgVCwG9lZ",
-      "DZ__z44m5MY"
+      "DZ__z44m5MY",
+      "DaExwifmw2d",
+      "DaC5j60m7DT",
+      "DaCjjbbG4nf"
     ],
-    "lastRun": "2026-06-26T05:10:40.684Z"
+    "lastRun": "2026-06-27T04:55:02.187Z"
   },
   "goplaybangkok": {
     "seen": [
@@ -134,6 +143,6 @@
       "DKKG2gTxt8P",
       "C4xvXnnR6xB"
     ],
-    "lastRun": "2026-06-26T05:10:17.071Z"
+    "lastRun": "2026-06-27T04:54:46.638Z"
   }
 }

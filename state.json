@@ -1,7 +1,7 @@
 {
   "I.onbangkok": {
     "seen": [],
-    "lastRun": "2026-07-01T05:22:43.758Z"
+    "lastRun": "2026-07-02T04:59:11.089Z"
   },
   "bangkok_insiders": {
     "seen": [
@@ -12,7 +12,7 @@
       "DZ7t-63vmAw",
       "DZ7YHzCmCgG"
     ],
-    "lastRun": "2026-07-01T05:22:43.765Z"
+    "lastRun": "2026-07-02T04:59:11.097Z"
   },
   "jiranarong2": {
     "seen": [
@@ -32,7 +32,7 @@
       "DaGHpNmz4d3",
       "DaNtlsfk1Rz"
     ],
-    "lastRun": "2026-07-01T05:22:50.378Z"
+    "lastRun": "2026-07-02T04:59:11.097Z"
   },
   "richie.got.you": {
     "seen": [
@@ -51,9 +51,10 @@
       "DZ7ozUvzhBK",
       "DaAwfEbTjcP",
       "DaLJZQXT3mP",
-      "DaNpoZxzlZq"
+      "DaNpoZxzlZq",
+      "DaQSEJDTsuO"
     ],
-    "lastRun": "2026-07-01T05:22:54.685Z"
+    "lastRun": "2026-07-02T04:59:14.930Z"
   },
   "lifestyleasiath": {
     "seen": [
@@ -90,9 +91,15 @@
       "DaO5Y5ynENf",
       "DaNZHtlEwC7",
       "DaNSg8WlV42",
-      "DaM3BQeFVeL"
+      "DaM3BQeFVeL",
+      "DaRrxn-nKYi",
+      "DaReCrcHKpV",
+      "DaP2_zGE7x_",
+      "DaPwhj0FXUO",
+      "DaPczwPE9Qh",
+      "DaPb9Molebe"
     ],
-    "lastRun": "2026-07-01T05:23:21.911Z"
+    "lastRun": "2026-07-02T04:59:34.858Z"
   },
   "aj.some.more": {
     "seen": [
@@ -116,9 +123,10 @@
       "DaJzB0qyfo1",
       "DaIE8qzSa_4",
       "DaPC6vMSNCJ",
-      "DaNgzd-yIM6"
+      "DaNgzd-yIM6",
+      "DaQJ7tQhH7N"
     ],
-    "lastRun": "2026-07-01T05:23:34.494Z"
+    "lastRun": "2026-07-02T04:59:38.138Z"
   },
   "timeoutbangkok": {
     "seen": [
@@ -159,9 +167,13 @@
       "DaPNwooE-sC",
       "DaO_quAG6DI",
       "DaNKs84GxTt",
-      "DaM06CRm_hV"
+      "DaM06CRm_hV",
+      "DaRrqa0jjyG",
+      "DaRljQfm9TX",
+      "DaPswLuG9AM",
+      "DaPfWp2jN4i"
     ],
-    "lastRun": "2026-07-01T05:23:54.056Z"
+    "lastRun": "2026-07-02T04:59:48.519Z"
   },
   "goplaybangkok": {
     "seen": [
@@ -179,6 +191,6 @@
       "C4xvXnnR6xB",
       "DaNgAb_SYmO"
     ],
-    "lastRun": "2026-07-01T05:23:26.574Z"
+    "lastRun": "2026-07-02T04:59:34.858Z"
   }
 }

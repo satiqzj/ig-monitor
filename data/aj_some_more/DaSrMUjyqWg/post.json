@@ -1,0 +1,18 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DaSrMUjyqWg",
+  "postUrl": "https://www.instagram.com/p/DaSrMUjyqWg/",
+  "timestamp": "2026-07-02T13:17:17.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DaSrMUjyqWg/image_1.jpg"
+  ],
+  "place": "泰國",
+  "vibe_tags": [
+    "浪漫",
+    "熱鬧"
+  ],
+  "date_score": 7,
+  "summary": "這則貼文表達了對泰國的思念，顯示出泰國是一個充滿魅力的旅遊地點。雖然沒有具體的時間或價格資訊，但泰國的熱鬧氛圍適合約會。"
+}

@@ -51,13 +51,14 @@ async function main() {
       const caption = readCaption(dir);
       const category = catByHandle[handle] || meta.category || "";
 
-      // 摘要缺失/失敗，或舊格式（沒有結構化的 date_score 欄位）→ 重做
-      const stale = needsSummary(meta.summary) || !("date_score" in meta);
+      // 摘要缺失/失敗，或舊格式（缺結構化欄位 date_score / end_date）→ 重做
+      const stale = needsSummary(meta.summary) || !("date_score" in meta) || !("end_date" in meta);
       if (stale) {
         let ai;
         try { ai = await summarize({ caption }, category); }
-        catch (e) { ai = { place: "", vibe_tags: [], date_score: null, summary: "（分析失敗：" + e.message + "）" }; }
-        meta.place = ai.place; meta.vibe_tags = ai.vibe_tags; meta.date_score = ai.date_score; meta.summary = ai.summary;
+        catch (e) { ai = { place: "", vibe_tags: [], date_score: null, summary: "（分析失敗：" + e.message + "）", end_date: null }; }
+        meta.place = ai.place; meta.vibe_tags = ai.vibe_tags; meta.date_score = ai.date_score;
+        meta.end_date = ai.end_date; meta.summary = ai.summary;
         fs.writeFileSync(pjPath, JSON.stringify(meta, null, 2), "utf8");
         updated++;
         console.log(`  ✔ @${handle}/${short}`);

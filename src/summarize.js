@@ -16,6 +16,7 @@ const SYSTEM =
   "vibe_tags：2–4 個中文風格標籤的陣列（例如 文青、浪漫、戶外、熱鬧、靜謐）。\n" +
   "date_score：1–10 的整數，代表約會適合度（10 最適合）。\n" +
   "summary：2–3 句繁體中文摘要，點出這是什麼、若有時間/地點/價格就寫出來、適不適合約會。\n" +
+  "end_date：若貼文提到這個活動/展覽/市集的『結束日期』，輸出 YYYY-MM-DD 格式；常態店家（如咖啡廳）或沒提到結束日期就填 null。若只寫月日沒寫年份，推斷成最接近的未來日期。\n" +
   "貼文是泰文或英文時，一律用中文。沒提到的資訊不要編造。只輸出 JSON，不要 markdown 圍欄或多餘文字。";
 
 function buildPrompt(post, category) {
@@ -33,9 +34,10 @@ function parseStructured(text) {
       vibe_tags: Array.isArray(o.vibe_tags) ? o.vibe_tags.map(String).slice(0, 5) : [],
       date_score: Number.isFinite(+o.date_score) ? Math.round(+o.date_score) : null,
       summary: (o.summary || "").toString().trim() || "（無摘要）",
+      end_date: /^\d{4}-\d{2}-\d{2}$/.test(String(o.end_date || "").trim()) ? String(o.end_date).trim() : null,
     };
   } catch (_) {
-    return { place: "", vibe_tags: [], date_score: null, summary: raw || "（無摘要）" };
+    return { place: "", vibe_tags: [], date_score: null, summary: raw || "（無摘要）", end_date: null };
   }
 }
 
@@ -116,7 +118,7 @@ async function summarize(post, category) {
   else if (geminiKey) text = await geminiText(post, category, geminiKey);
   else if (anthropicKey) text = await claudeText(post, category, anthropicKey);
   else if (ghToken) text = await githubText(post, category, ghToken);
-  else return { place: "", vibe_tags: [], date_score: null, summary: "（未設定 AI 金鑰，略過分析）" };
+  else return { place: "", vibe_tags: [], date_score: null, summary: "（未設定 AI 金鑰，略過分析）", end_date: null };
 
   return parseStructured(text);
 }

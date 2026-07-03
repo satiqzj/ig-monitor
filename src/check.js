@@ -88,14 +88,15 @@ async function main() {
       // 3) AI 分析（結構化：place / vibe_tags / date_score / summary）
       let ai;
       try { ai = await summarize(post, catByHandle[handle]); }
-      catch (e) { ai = { place: "", vibe_tags: [], date_score: null, summary: "（分析失敗：" + e.message + "）" }; }
+      catch (e) { ai = { place: "", vibe_tags: [], date_score: null, summary: "（分析失敗：" + e.message + "）", end_date: null }; }
       await sleep(1200);   // 節流，避免一次打太多被限流
 
       // 4) 存 metadata
       fs.writeFileSync(path.join(dir, "post.json"), JSON.stringify({
         handle, category: catByHandle[handle], shortCode: post.shortCode,
         postUrl: post.postUrl, timestamp: post.timestamp, type: post.type,
-        images: savedImgs, place: ai.place, vibe_tags: ai.vibe_tags, date_score: ai.date_score, summary: ai.summary,
+        images: savedImgs, place: ai.place, vibe_tags: ai.vibe_tags, date_score: ai.date_score,
+        end_date: ai.end_date, summary: ai.summary,
       }, null, 2), "utf8");
 
       digestEntries.push({ handle, category: catByHandle[handle], post, ai, savedImgs });

@@ -8,6 +8,7 @@ const DATA = path.join(ROOT, "data");
 const FEED_FILE = path.join(ROOT, "feed.json");
 
 function buildFeed(catByHandle = {}, limit = 60) {
+  const today = new Date().toISOString().slice(0, 10);   // 用來過濾過期活動
   const items = [];
   if (fs.existsSync(DATA)) {
     for (const handle of fs.readdirSync(DATA)) {
@@ -18,6 +19,8 @@ function buildFeed(catByHandle = {}, limit = 60) {
         if (!fs.existsSync(pj)) continue;
         let meta;
         try { meta = JSON.parse(fs.readFileSync(pj, "utf8")); } catch (_) { continue; }
+        // 過期活動（有結束日期且已過）就不放進 feed
+        if (meta.end_date && meta.end_date < today) continue;
         let caption = "";
         try { caption = fs.readFileSync(path.join(hdir, short, "caption.txt"), "utf8"); } catch (_) {}
         items.push({
@@ -26,6 +29,7 @@ function buildFeed(catByHandle = {}, limit = 60) {
           place: meta.place || "",
           vibe_tags: meta.vibe_tags || [],
           date_score: meta.date_score != null ? meta.date_score : null,
+          end_date: meta.end_date || null,
           summary: meta.summary || "",
           caption: (caption || "").replace(/\s+/g, " ").slice(0, 200),
           image: (meta.images && meta.images[0]) || "",   // repo 相對路徑

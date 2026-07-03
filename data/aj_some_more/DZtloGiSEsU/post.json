@@ -8,11 +8,9 @@
   "images": [
     "data/aj_some_more/DZtloGiSEsU/image_1.jpg"
   ],
-  "summary": "這則貼文提到將會回到曼谷，可能是對當地咖啡廳的懷念。曼谷的咖啡廳通常氛圍輕鬆，適合約會。",
+  "summary": "這是一則關於曼谷的貼文，提到將會回到這個城市。雖然沒有具體的地點或活動資訊，但曼谷的咖啡廳通常適合約會。",
   "place": "曼谷",
-  "vibe_tags": [
-    "文青",
-    "浪漫"
-  ],
-  "date_score": 6
+  "vibe_tags": [],
+  "date_score": 5,
+  "end_date": null
 }

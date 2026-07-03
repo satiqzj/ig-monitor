@@ -8,12 +8,13 @@
   "images": [
     "data/lifestyleasiath/DZ6nb0cS2bN/image_1.jpg"
   ],
-  "summary": "Liu 餐廳位於 Conrad Bangkok Hotel，專注於廣東菜的藝術，特別推薦由執行主廚 Andy Fung 精心製作的招牌菜。這裡的環境適合約會，品味高級中餐，讓人流連忘返。",
-  "place": "Liu 餐廳",
+  "summary": "這是一家位於 Conrad Bangkok 酒店的高級廣東餐廳 Liu，主廚 Andy Fung 的招牌菜色如燒鴨配黑松露醬等，展現了廣東料理的精緻工藝。非常適合約會的浪漫用餐地點。",
+  "place": "Conrad Bangkok 酒店的 Liu 餐廳",
   "vibe_tags": [
     "浪漫",
     "美食",
-    "靜謐"
+    "高級"
   ],
-  "date_score": 9
+  "date_score": 9,
+  "end_date": null
 }

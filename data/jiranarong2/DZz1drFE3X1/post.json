@@ -11,12 +11,13 @@
     "data/jiranarong2/DZz1drFE3X1/image_3.jpg",
     "data/jiranarong2/DZz1drFE3X1/image_4.jpg"
   ],
-  "summary": "這是一家位於泰國的牛肉湯店，以其獨特的金色湯頭和香氣四溢的味道而聞名。雖然店面小巧，但環境乾淨，適合喜愛美食的約會對象。",
-  "place": "店家名不明的牛肉湯店",
+  "summary": "這是一家位於泰國的餐廳，提供美味的牛內臟湯和其他料理。餐廳環境乾淨，適合與朋友輕鬆聚餐，但可能不太適合正式的約會。無明確的結束日期。",
+  "place": "餐廳",
   "vibe_tags": [
     "文青",
     "美食",
-    "靜謐"
+    "輕鬆"
   ],
-  "date_score": 7
+  "date_score": 7,
+  "end_date": null
 }

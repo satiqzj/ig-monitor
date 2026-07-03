@@ -17,8 +17,13 @@
     "data/timeoutbangkok/DaPswLuG9AM/image_9.jpg",
     "data/timeoutbangkok/DaPswLuG9AM/image_10.jpg"
   ],
-  "place": "",
-  "vibe_tags": [],
-  "date_score": null,
-  "summary": "（分析失敗：Unexpected token 'T', \"Too many r\"... is not valid JSON）"
+  "place": "曼谷河濱文青市集",
+  "vibe_tags": [
+    "文青",
+    "熱鬧",
+    "戶外"
+  ],
+  "date_score": 7,
+  "summary": "這個市集提供多樣的活動，包括驕傲展覽和文具交換，非常適合週末放鬆。適合情侶一起參加，享受河邊的氛圍。",
+  "end_date": null
 }

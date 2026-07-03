@@ -8,12 +8,13 @@
   "images": [
     "data/richie_got_you/DZubwgAzqyF/image_1.jpg"
   ],
-  "summary": "這是一個位於清邁的美麗花園，非常適合拍照。這裡的環境優美，適合約會時享受戶外的浪漫氛圍。",
+  "summary": "這是一個位於清邁的美麗花園，適合拍照和享受靜謐的氛圍。非常適合約會，尤其是喜歡大自然的情侶。",
   "place": "Ying Yong Flower Garden",
   "vibe_tags": [
     "文青",
-    "戶外",
-    "浪漫"
+    "靜謐",
+    "戶外"
   ],
-  "date_score": 8
+  "date_score": 7,
+  "end_date": null
 }

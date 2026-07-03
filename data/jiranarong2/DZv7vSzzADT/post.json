@@ -8,11 +8,12 @@
   "images": [
     "data/jiranarong2/DZv7vSzzADT/image_1.jpg"
   ],
-  "summary": "這是位於哈耶市的新開豬腳飯店，提供中藥燉豬腳和米線。適合喜歡美食的約會對象，但可能會有些熱鬧。",
-  "place": "哈耶市阿公豬腳飯",
+  "summary": "這是位於哈賴的阿公豬腳飯新開的店，提供美味的中藥豬腳飯，適合與朋友或伴侶一同享用。店家剛搬遷，環境熱鬧，非常適合約會。",
+  "place": "阿公豬腳飯",
   "vibe_tags": [
-    "美食",
-    "熱鬧"
+    "熱鬧",
+    "美食"
   ],
-  "date_score": 6
+  "date_score": 7,
+  "end_date": null
 }

@@ -8,11 +8,12 @@
   "images": [
     "data/bangkok_insiders/DZrNxCBtkzF/image_1.jpg"
   ],
-  "summary": "這是一個在曼谷 SONGWAT 舉辦的展覽，結合了 adidas 和 arabica 的特色。適合喜歡文創和熱鬧氛圍的約會，建議一起來探索。",
+  "summary": "這是一個在曼谷 SONGWAT 舉行的展覽，由 adidas 和 arabica 合作。適合喜歡文創和時尚的約會對象，地點熱鬧且富有藝術氛圍。",
   "place": "曼谷 SONGWAT",
   "vibe_tags": [
     "文青",
     "熱鬧"
   ],
-  "date_score": 7
+  "date_score": 7,
+  "end_date": null
 }

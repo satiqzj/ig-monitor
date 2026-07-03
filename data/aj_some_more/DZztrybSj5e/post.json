@@ -8,12 +8,13 @@
   "images": [
     "data/aj_some_more/DZztrybSj5e/image_1.jpg"
   ],
-  "summary": "這是一家位於曼谷的酒店，提供寬敞的套房和美麗的天際線泳池，適合約會時享受浪漫的時光。酒店還提供豐盛的早餐，讓你們的早晨更加美好。",
+  "summary": "這是一家位於曼谷的酒店，提供寬敞的套房、天際泳池和屋頂日落美景，非常適合約會或浪漫之旅。酒店內的早餐也相當豐富，是一個理想的住宿選擇。",
   "place": "Sindhorn Midtown Hotel Bangkok",
   "vibe_tags": [
     "浪漫",
     "靜謐",
-    "舒適"
+    "文青"
   ],
-  "date_score": 8
+  "date_score": 8,
+  "end_date": null
 }

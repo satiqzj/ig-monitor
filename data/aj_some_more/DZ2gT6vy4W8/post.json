@@ -8,11 +8,12 @@
   "images": [
     "data/aj_some_more/DZ2gT6vy4W8/image_1.jpg"
   ],
-  "summary": "這則貼文介紹了曼谷的別名「Krung Thep」，並提到當地的文化特色。雖然沒有具體的約會地點，但曼谷作為一個熱鬧的城市，適合探索和約會。",
+  "summary": "這則貼文介紹了泰國曼谷的別名「Krung Thep」，並提到其完整名稱的意義。雖然沒有具體的約會地點，但曼谷作為一個熱鬧的城市，適合探索和約會。",
   "place": "曼谷",
   "vibe_tags": [
     "文青",
     "熱鬧"
   ],
-  "date_score": 6
+  "date_score": 5,
+  "end_date": null
 }

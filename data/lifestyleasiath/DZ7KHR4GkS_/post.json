@@ -14,12 +14,13 @@
     "data/lifestyleasiath/DZ7KHR4GkS_/image_6.jpg",
     "data/lifestyleasiath/DZ7KHR4GkS_/image_7.jpg"
   ],
-  "summary": "這是一個以奢華品牌為主題的健身活動，結合了時尚與運動的元素。雖然適合喜愛健身和時尚的人，但不一定是傳統約會的好選擇。",
-  "place": "奢華健身品牌活動",
+  "summary": "這是一個結合奢華品牌與健身生活的活動，展現了時尚與運動的結合。適合對奢華品牌和健身有興趣的情侶一起參加。",
+  "place": "奢華健身活動",
   "vibe_tags": [
     "時尚",
-    "活力",
-    "運動"
+    "運動",
+    "奢華"
   ],
-  "date_score": 5
+  "date_score": 6,
+  "end_date": null
 }

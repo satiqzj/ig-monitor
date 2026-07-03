@@ -8,12 +8,13 @@
   "images": [
     "data/bangkok_insiders/DZxHdl_hXIa/image_1.jpg"
   ],
-  "summary": "這是一個位於曼谷的屋頂酒吧，剛舉行了盛大的開幕夜。適合約會的浪漫場所，享受美麗的城市天際線。",
+  "summary": "這是一個位於曼谷的屋頂酒吧，剛開幕的夜晚非常熱鬧，適合約會。享受美麗的天空景觀，讓約會更加浪漫。",
   "place": "Madura Bangkok",
   "vibe_tags": [
     "浪漫",
     "熱鬧",
     "戶外"
   ],
-  "date_score": 8
+  "date_score": 8,
+  "end_date": null
 }

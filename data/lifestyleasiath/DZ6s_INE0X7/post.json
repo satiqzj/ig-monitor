@@ -15,11 +15,12 @@
     "data/lifestyleasiath/DZ6s_INE0X7/image_7.jpg",
     "data/lifestyleasiath/DZ6s_INE0X7/image_8.jpg"
   ],
-  "summary": "這是一家咖啡廳，與《龍之家族》第三季的發布相關，透過創意的迷因來慶祝。適合約會的氛圍熱鬧，適合喜歡輕鬆聊天的情侶。",
-  "place": "咖啡廳",
+  "summary": "這是一個慶祝《龍之家族》第三季推出的活動，主要以迷因為主題。雖然沒有具體的時間和地點，但適合影迷聚會和交流。",
+  "place": "House of the Dragon 相關活動",
   "vibe_tags": [
-    "文青",
-    "熱鬧"
+    "熱鬧",
+    "影視"
   ],
-  "date_score": 6
+  "date_score": 6,
+  "end_date": null
 }

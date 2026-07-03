@@ -8,11 +8,9 @@
   "images": [
     "data/aj_some_more/DZ6b_8tyrcc/image_1.jpg"
   ],
-  "summary": "這篇貼文提到作者剛抵達曼谷，適合喜愛探索城市的情侶。雖然沒有具體的地點，但曼谷的熱鬧氛圍讓人感受到約會的潛力。",
+  "summary": "這則貼文提到作者剛抵達曼谷，並鼓勵追蹤更多內容。雖然沒有具體的咖啡廳名稱，但曼谷有許多適合約會的地方。",
   "place": "曼谷",
-  "vibe_tags": [
-    "文青",
-    "熱鬧"
-  ],
-  "date_score": 5
+  "vibe_tags": [],
+  "date_score": 5,
+  "end_date": null
 }

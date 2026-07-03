@@ -5,11 +5,12 @@
     "place": "Blue by Alain Ducasse",
     "vibe_tags": [
       "浪漫",
-      "豪華",
+      "奢華",
       "節慶"
     ],
-    "date_score": 9,
-    "summary": "這是一個專為中秋節設計的高端月餅系列，名為「Once in a Blue Moon」，象徵著團圓與分享。適合和摯愛的人一起慶祝，享受奢華的味道，特別適合約會。",
+    "date_score": 8,
+    "end_date": null,
+    "summary": "這是 Blue by Alain Ducasse 在中秋節推出的2026年限量月餅系列，名為 'Once in a Blue Moon'，象徵著團圓與奢華。這個活動非常適合與摯愛分享特殊的時刻。",
     "caption": "This Mid-Autumn Festival, @bluebyalainducasse is elevating your celebrations with their ultra-exclusive 2026 mooncake collection. 'Once in a Blue Moon' Inspired by the rare cosmic phenomenon, this lim",
     "image": "data/lifestyleasiath/DaUQpSpHF9t/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaUQpSpHF9t/",
@@ -18,13 +19,11 @@
   {
     "handle": "timeoutbangkok",
     "category": "市集",
-    "place": "泰國",
-    "vibe_tags": [
-      "靜謐",
-      "文青"
-    ],
-    "date_score": 6,
-    "summary": "這篇貼文提到泰國被評選為亞洲最佳退休地點，適合考慮在此定居的人士。雖然主要是針對退休生活的分析，但也可以作為約會的靜謐環境選擇，適合喜歡悠閒氛圍的情侶。",
+    "place": "",
+    "vibe_tags": [],
+    "date_score": null,
+    "end_date": null,
+    "summary": "（分析失敗：Unexpected token 'T', \"Too many r\"... is not valid JSON）",
     "caption": "Thinking of retiring in Thailand? The numbers are on your side. Thailand has been named Asia’s best place to retire in International Living’s 2026 Global Retirement Index, climbing to ninth worldwide ",
     "image": "data/timeoutbangkok/DaUMhd0m77S/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaUMhd0m77S/",
@@ -36,11 +35,11 @@
     "place": "曼谷網球場",
     "vibe_tags": [
       "運動",
-      "社交",
       "熱鬧"
     ],
     "date_score": 6,
-    "summary": "這篇貼文介紹了曼谷的網球場，適合喜愛運動的情侶一起打網球。網球場有各種風格的設施，從傳統的運動中心到現代社交俱樂部都有。約會時可以享受運動的樂趣，增進彼此的默契。",
+    "end_date": null,
+    "summary": "這篇貼文介紹了曼谷的網球場，適合喜愛運動的約會對象。若你們想在網球場上揮拍，這裡有許多選擇可供參考。",
     "caption": "The 2026 Wimbledon Championship kicked off in London yesterday (29 June), and is set to run until 12 July. If the grass-court action has you itching to pick up a racquet, Bangkok has no shortage of pl",
     "image": "data/lifestyleasiath/DaUC70SHNdC/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaUC70SHNdC/",
@@ -53,10 +52,11 @@
     "vibe_tags": [
       "熱鬧",
       "美食",
-      "浪漫"
+      "文化"
     ],
     "date_score": 8,
-    "summary": "這是一個充滿創新美食的市集，包含多家餐廳的合作活動，適合喜愛美食的約會對象。若你想要享受不同風味的料理，這裡絕對是個不錯的選擇。",
+    "end_date": null,
+    "summary": "這是一個充滿創意的美食市集，聚集了多位名廚和特色餐廳的合作活動，提供不同風味的美食體驗。適合喜愛美食和社交的約會，建議提前預訂以免錯過。時間和具體地點可透過連結查詢。",
     "caption": "This week’s food news is packed with collaborations that cross borders, styles and even cocktail menus. Benjarong (@benjarong.bkk) continues to spotlight Thai recipes passed down through generations. ",
     "image": "data/timeoutbangkok/DaSuGVwm4qT/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaSuGVwm4qT/",
@@ -67,11 +67,12 @@
     "category": "旅遊",
     "place": "泰國",
     "vibe_tags": [
-      "浪漫",
-      "熱鬧"
+      "旅遊",
+      "懷舊"
     ],
-    "date_score": 7,
-    "summary": "這則貼文表達了對泰國的思念，顯示出泰國是一個充滿魅力的旅遊地點。雖然沒有具體的時間或價格資訊，但泰國的熱鬧氛圍適合約會。",
+    "date_score": 5,
+    "end_date": null,
+    "summary": "這篇貼文表達了對泰國的懷念，適合喜愛旅遊的人士。雖然沒有具體的地點或活動，但它傳達了對泰國的情感。適合與伴侶分享旅行的回憶。",
     "caption": "What’s the hardest part about visiting Thailand? 🇹🇭🥹 For me… it’s leaving. Comment “See you soon Thailand” if you already miss Thailand before your flight even takes off. ❤️✈️",
     "image": "data/aj_some_more/DaSrMUjyqWg/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaSrMUjyqWg/",
@@ -87,7 +88,8 @@
       "慶祝"
     ],
     "date_score": 8,
-    "summary": "這是一系列慶祝美國獨立日的活動，包括燒烤派對和煙火表演，適合與朋友或伴侶一起享受熱鬧的氛圍。活動地點包括曼谷的多個酒吧和餐廳，適合約會。",
+    "end_date": null,
+    "summary": "這是一系列為美國獨立日慶祝的活動，包括燒烤派對和煙火表演，適合各種人參加。活動將在曼谷的多個地點舉行，非常適合約會和朋友聚會。",
     "caption": "Teleport to America for the weekend with all the food, freedom and festivities going on for Fourth of July. From a boat cookout with Bangkok’s Island (@bangkokisland), to the city’s ‘biggest Fourth of",
     "image": "data/timeoutbangkok/DaSIuklG1D3/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaSIuklG1D3/",
@@ -102,39 +104,25 @@
       "美食"
     ],
     "date_score": 7,
-    "summary": "這篇貼文介紹了曼谷幾家提供大型紐約風格披薩的餐廳。適合與朋友或情侶一起享受美食，享受熱鬧的氛圍。",
+    "end_date": null,
+    "summary": "這篇貼文介紹了曼谷幾家提供大型紐約風格披薩的店家，非常適合與朋友或約會對象共享美食。想要品嚐美味披薩的話，這裡是個不錯的選擇。",
     "caption": "Because sometimes, a 12” pie isn’t enough. Here are our picks of places to go for big, New York-style pizza in Bangkok. Tap the link in bio for details. #LifestyleAsiaThailand #LifestyleAsiaTH #Pizza ",
     "image": "data/lifestyleasiath/DaSAvqHFR3Q/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaSAvqHFR3Q/",
     "timestamp": "2026-07-02T07:03:52.000Z"
   },
   {
-    "handle": "timeoutbangkok",
-    "category": "市集",
-    "place": "國家圖書館拉瑪六基金會Sri Ayudhaya Auditorium",
-    "vibe_tags": [
-      "文青",
-      "文化",
-      "浪漫"
-    ],
-    "date_score": 8,
-    "summary": "這是一場由Siam Repertory Theatre主辦的話劇《國王的命令》的世界首演，將於7月18日在國家圖書館拉瑪六基金會的Sri Ayudhaya Auditorium舉行。活動免費入場，適合喜愛文化和藝術的約會對象。",
-    "caption": "HM King Rama VI wrote more than 20 plays in English after falling for theatre during his years at Oxford. Almost none have ever been staged professionally – until this July. The King's Command, a one-",
-    "image": "data/timeoutbangkok/DaR612kGx1C/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DaR612kGx1C/",
-    "timestamp": "2026-07-02T06:12:12.000Z"
-  },
-  {
     "handle": "lifestyleasiath",
     "category": "旅遊",
-    "place": "Court Rave",
+    "place": "曼谷 Court Rave",
     "vibe_tags": [
       "熱鬧",
       "運動",
       "派對"
     ],
-    "date_score": 7,
-    "summary": "Court Rave 是曼谷最新的運動與派對結合體驗，活動在晚上9點結束，非常適合喜歡運動和派對的人。這是一個獨特的約會選擇，讓你在運動後享受舞池的樂趣。",
+    "date_score": 8,
+    "end_date": null,
+    "summary": "這是一個結合運動與派對的活動，名為「Court Rave」，將於七月舉行，活動在晚上九點結束。適合喜歡運動和夜生活的情侶，讓你們在同一天享受運動與派對的樂趣。",
     "caption": "A workout and a night out all in the same day? Count us in. An unconventional party that wraps up by 9pm? Even better. Padel has quickly become one of Bangkok’s favourite sports, and this July, it’s s",
     "image": "data/lifestyleasiath/DaRrxn-nKYi/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaRrxn-nKYi/",
@@ -143,14 +131,15 @@
   {
     "handle": "timeoutbangkok",
     "category": "市集",
-    "place": "Khao Restaurant",
+    "place": "Khao 餐廳",
     "vibe_tags": [
       "浪漫",
-      "熱鬧",
-      "美食"
+      "文青",
+      "熱鬧"
     ],
     "date_score": 9,
-    "summary": "Khao Restaurant 是一家獲得米其林星級的泰國餐廳，提供精緻的傳統菜餚，適合約會。餐廳在曼谷有兩個分店，Ekkamai 和 Wireless Road，營業時間為下午5:30至晚上10:00。預訂可透過網站或電話進行。",
+    "end_date": null,
+    "summary": "Khao 餐廳是一家獲得米其林星的泰國餐廳，以精緻的傳統菜餚和優質食材聞名。餐廳在曼谷的 Ekkamai 和 Wireless Road 兩個地點均有營業，適合約會享受美食。",
     "caption": "The trouble with @khaogroup is you make peace with the fact you can't order everything. And what a menu it is. Thick, glossy and stacked with photographs so tempting they only sharpen the agony of cho",
     "image": "data/timeoutbangkok/DaRrqa0jjyG/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaRrqa0jjyG/",
@@ -159,10 +148,11 @@
   {
     "handle": "timeoutbangkok",
     "category": "市集",
-    "place": "",
+    "place": "泰國醫療旅遊",
     "vibe_tags": [],
-    "date_score": null,
-    "summary": "（分析失敗：Unexpected token 'T', \"Too many r\"... is not valid JSON）",
+    "date_score": 5,
+    "end_date": null,
+    "summary": "泰國被評選為全球第二佳醫療旅遊目的地，提供高品質的醫療服務和專業的醫療團隊。這裡的醫療旅遊適合對醫療需求有興趣的情侶，但不一定是傳統約會的選擇。",
     "caption": "Thailand has been named the world's second-best destination for medical tourism in Travel And Tour World's 2026 rankings 🌍 The list looks at healthcare quality, specialist expertise, affordability, w",
     "image": "data/timeoutbangkok/DaRljQfm9TX/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaRljQfm9TX/",
@@ -171,13 +161,14 @@
   {
     "handle": "lifestyleasiath",
     "category": "旅遊",
-    "place": "BSC Cosmetology",
+    "place": "BSC Cosmetology 與 Mama OK 合作的限量化妝品系列",
     "vibe_tags": [
       "時尚",
       "創意"
     ],
-    "date_score": 5,
-    "summary": "這是一個泰國化妝品牌BSC Cosmetology與即食麵品牌Mama OK的聯名化妝品系列，展現廚房與化妝台的界線模糊。雖然不是傳統約會地點，但對於喜愛化妝和創意的人來說，可能會是一個有趣的選擇。",
+    "date_score": 6,
+    "end_date": null,
+    "summary": "這是一個結合泰國化妝品品牌與即食麵品牌的限量化妝品系列，展現了廚房與美容的創意融合。雖然沒有具體的活動時間，但這個獨特的合作值得關注，適合對美妝有興趣的約會對象。",
     "caption": "In what might be the most unexpectedly delicious beauty collab of the year, Thai cosmetics powerhouse BSC Cosmetology has joined forces with iconic instant noodle brand Mama OK to launch a limited-edi",
     "image": "data/lifestyleasiath/DaReCrcHKpV/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaReCrcHKpV/",
@@ -188,11 +179,12 @@
     "category": "旅遊",
     "place": "Hua Chang Heritage Hotel",
     "vibe_tags": [
-      "文青",
-      "浪漫"
+      "浪漫",
+      "靜謐"
     ],
     "date_score": 8,
-    "summary": "這是一家位於曼谷的美麗精品酒店，適合情侶約會或度假。可以透過AGODA預訂，並使用優惠碼享受折扣。",
+    "end_date": null,
+    "summary": "這是一家位於曼谷的美麗精品酒店，適合約會或享受浪漫時光。可以透過 AGODA 預訂，並使用優惠碼獲得折扣。",
     "caption": "Found a beautiful boutique hotel in Bangkok #agodaambassador #agodacreatorcommunity #agoda #bangkok #bangkokhotel 📍Hua Chang Heritage Hotel ✅Book on AGODA 💎Use my promo code: RICHIEGOTYOU",
     "image": "data/richie_got_you/DaQSEJDTsuO/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaQSEJDTsuO/",
@@ -204,11 +196,13 @@
     "place": "Stella Palace",
     "vibe_tags": [
       "浪漫",
-      "戶外",
-      "美食"
+      "美食",
+      "高空",
+      "放鬆"
     ],
     "date_score": 9,
-    "summary": "這是一家位於曼谷 Baiyoke Sky Hotel 79 樓的中式自助餐廳，提供正宗的中餐和壯觀的城市景觀。沒有時間限制，非常適合約會時輕鬆享受美食。",
+    "end_date": null,
+    "summary": "這是一家位於曼谷 Baiyoke Sky Hotel 79 樓的中式自助餐廳，提供正宗的中華料理和壯觀的城市天際線景觀。沒有時間限制，非常適合約會時悠閒享用美食。",
     "caption": "🇹🇭 I think I found one of Bangkok’s best Chinese buffets! 🥢✨ Enjoy authentic Chinese cuisine on the 79th floor while taking in breathtaking views of the Bangkok skyline. The best part? There’s no t",
     "image": "data/aj_some_more/DaQJ7tQhH7N/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaQJ7tQhH7N/",
@@ -220,10 +214,11 @@
     "place": "電影院",
     "vibe_tags": [
       "熱鬧",
-      "浪漫"
+      "娛樂"
     ],
-    "date_score": 7,
-    "summary": "這篇貼文提到本月將上映的電影，包括蜘蛛人系列。適合喜歡電影的情侶一起約會，享受大螢幕的氛圍。",
+    "date_score": 6,
+    "end_date": null,
+    "summary": "這篇貼文提到七月的電影上映，適合喜歡看電影的約會對象。可以一起享受最新的電影作品，增進彼此的交流與互動。",
     "caption": "Spidey swings back to theaters this month. Here’s what to watch in cinemas this July. #LifestyleAsia #LifestyleAsiaTH",
     "image": "data/lifestyleasiath/DaP2_zGE7x_/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaP2_zGE7x_/",
@@ -235,10 +230,11 @@
     "place": "泰國",
     "vibe_tags": [
       "熱鬧",
-      "冒險"
+      "刺激"
     ],
     "date_score": 6,
-    "summary": "這是一個關於泰國的旅遊貼文，提到將現實電視節目《愛島》與泰國風格結合的概念。雖然沒有具體的約會地點，但可以想像這樣的活動適合喜歡冒險和刺激的情侶。",
+    "end_date": null,
+    "summary": "這是一個以泰國為背景的節目，結合了辣味食物挑戰與真人秀元素，適合喜歡刺激的約會對象。雖然沒有具體的活動時間，但可以作為約會的話題或靈感。",
     "caption": "Good evening, islanders. On tonight's episode, we’re putting a Thai spin on one of reality television’s greatest guilty pleasures. Spicy food challenges, islanders with inhalers, and more—here’s what ",
     "image": "data/lifestyleasiath/DaPwhj0FXUO/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaPwhj0FXUO/",
@@ -247,37 +243,31 @@
   {
     "handle": "timeoutbangkok",
     "category": "市集",
-    "place": "",
-    "vibe_tags": [],
-    "date_score": null,
-    "summary": "（分析失敗：Unexpected token 'T', \"Too many r\"... is not valid JSON）",
+    "place": "曼谷河濱文青市集",
+    "vibe_tags": [
+      "文青",
+      "熱鬧",
+      "戶外"
+    ],
+    "date_score": 7,
+    "end_date": null,
+    "summary": "這個市集提供多樣的活動，包括驕傲展覽和文具交換，非常適合週末放鬆。適合情侶一起參加，享受河邊的氛圍。",
     "caption": "From Pride exhibitions and stationery swaps to riverside psytrance and a park bench with your name on it, here's how to fill the weekend. 🔗 Tap the link in @timeoutbangkok’s bio to read it in full. #",
     "image": "data/timeoutbangkok/DaPswLuG9AM/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaPswLuG9AM/",
     "timestamp": "2026-07-01T09:30:36.000Z"
   },
   {
-    "handle": "timeoutbangkok",
-    "category": "市集",
-    "place": "",
-    "vibe_tags": [],
-    "date_score": null,
-    "summary": "（分析失敗：Unexpected token 'T', \"Too many r\"... is not valid JSON）",
-    "caption": "July 9-12, Bangkok's skyline gets a movie date as @skylinefilmbkk returns to the rooftop of @rivercitycontemporary. The line-up is a proper mixed bag: wistful romance, ballet psychodrama, indie heartb",
-    "image": "data/timeoutbangkok/DaPfWp2jN4i/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DaPfWp2jN4i/",
-    "timestamp": "2026-07-01T07:33:31.000Z"
-  },
-  {
     "handle": "lifestyleasiath",
     "category": "旅遊",
-    "place": "在家",
+    "place": "居家觀影",
     "vibe_tags": [
       "放鬆",
       "靜謐"
     ],
-    "date_score": 6,
-    "summary": "這是一個適合在家享受的放鬆時光，推薦七月的串流影視內容。雖然是在家，但可以與伴侶一起窩著看電影，適合約會。",
+    "date_score": 5,
+    "end_date": null,
+    "summary": "這是一個適合在家裡享受的觀影活動，適合和伴侶一起度過悠閒的時光。七月有很多精彩的串流內容可以觀看，非常適合約會。",
     "caption": "Stay in, snuggle up, and binge. Here’s what to watch on streaming this July. #LifestyleAsia #LifestyleAsiaTH",
     "image": "data/lifestyleasiath/DaPczwPE9Qh/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaPczwPE9Qh/",
@@ -288,12 +278,13 @@
     "category": "市集",
     "place": "ICONSIAM",
     "vibe_tags": [
-      "文青",
       "熱鬧",
+      "時尚",
       "購物"
     ],
-    "date_score": 8,
-    "summary": "這是一個名為Boutiques Asia的獨立購物活動，將於2026年7月24日至26日在ICONSIAM舉行。活動匯聚了來自多個國家的120多個品牌，適合喜愛時尚和生活風格的人士，特別適合約會和朋友聚會。",
+    "date_score": 9,
+    "end_date": "2026-07-26",
+    "summary": "這是一個名為 Boutiques Asia: The Bangkok Edition 2026 的市集，將於 7 月 24 至 26 日在 ICONSIAM 的 7 樓舉行。超過 120 個品牌參展，適合喜愛時尚和購物的約會對象。",
     "caption": "Singapore’s best-known independent shopping event is finally crossing the border 🛍️ After more than 20 years championing emerging labels through @boutiquefairssg, founder Charlotte Cain brings the wh",
     "image": "data/timeoutbangkok/DaPNwooE-sC/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaPNwooE-sC/",
@@ -305,11 +296,12 @@
     "place": "Conrad Bangkok",
     "vibe_tags": [
       "浪漫",
-      "文青",
-      "時尚"
+      "時尚",
+      "節慶"
     ],
-    "date_score": 8,
-    "summary": "Conrad Bangkok 推出了 2026 年的月餅系列「Wings of Harmony」，結合了傳統與現代設計。這是一個適合送禮或自用的節慶產品，非常適合情侶在特殊時刻共享。",
+    "date_score": 7,
+    "end_date": null,
+    "summary": "Conrad Bangkok 剛推出了 2026 年的月餅系列「Wings of Harmony」，融合了傳統與現代設計，非常適合作為節慶贈禮或自用。這款系列是喜愛月餅的情侶或朋友之間的完美選擇。",
     "caption": "@conradbangkokhotel just dropped their 2026 Mooncake Collection, 'Wings of Harmony,' and we are officially obsessed. It’s the perfect mix of timeless heritage and chic design. Whether you’re looking t",
     "image": "data/lifestyleasiath/DaPHCixHCjY/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaPHCixHCjY/",
@@ -320,11 +312,12 @@
     "category": "旅遊",
     "place": "溫布頓網球錦標賽",
     "vibe_tags": [
-      "熱鬧",
-      "運動"
+      "運動",
+      "熱鬧"
     ],
-    "date_score": 6,
-    "summary": "這是2026年溫布頓網球錦標賽，兩位泰國選手在同一賽事中贏得了主賽的比賽，展現了泰國網球的新篇章。適合喜愛運動的情侶來觀賽，但需注意賽事的時間和票價。",
+    "date_score": 7,
+    "end_date": null,
+    "summary": "這是2026年的溫布頓網球錦標賽，兩位泰國選手在同一賽事中贏得了主賽的比賽，展現了泰國網球的崛起。這個活動適合熱愛運動的約會對象。",
     "caption": "For the first time in the Open Era, two Thai players have won Grand Slam main-draw matches at the same tournament, and both are through to round 2 of Wimbledon 2026. Mananchaya Sawangkaew pulled off a",
     "image": "data/lifestyleasiath/DaPGaJJnLSr/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaPGaJJnLSr/",
@@ -337,10 +330,11 @@
     "vibe_tags": [
       "浪漫",
       "戶外",
-      "熱鬧"
+      "旅遊"
     ],
     "date_score": 8,
-    "summary": "Mahanakhon Skywalk 是曼谷最具代表性的觀景點之一，提供壯觀的城市景觀。這裡適合約會，尤其是喜歡戶外活動的情侶。記得查看票價和折扣資訊！",
+    "end_date": null,
+    "summary": "Mahanakhon Skywalk 是曼谷最具代表性的觀景點之一，提供壯觀的城市全景。這裡適合約會，尤其是喜歡戶外活動的情侶。票價和折扣碼可透過留言獲得。",
     "caption": "Getting to Mahanakhon Skywalk is easier than you think! 🇹🇭✨ Skip the confusion and follow this simple BTS walking guide to one of Bangkok’s most iconic viewpoints. Save this for your trip and send i",
     "image": "data/aj_some_more/DaPC6vMSNCJ/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaPC6vMSNCJ/",
@@ -351,12 +345,13 @@
     "category": "市集",
     "place": "KFC Run 2026",
     "vibe_tags": [
-      "運動",
       "熱鬧",
-      "美食"
+      "戶外",
+      "運動"
     ],
-    "date_score": 7,
-    "summary": "這是一個名為 'KFC Run 2026' 的跑步活動，參加者可在運動後享用美味的炸雞。活動將於9月6日在 Stadium One 舉行，適合喜愛運動和美食的約會對象。",
+    "date_score": 8,
+    "end_date": "2026-09-06",
+    "summary": "這是一場以KFC為主題的跑步活動，參加者可以選擇5公里或10公里的賽程，跑完後可享受美味的炸雞獎勵。活動將於9月6日在Stadium One舉行，適合喜愛運動和美食的約會對象。",
     "caption": "This run doesn't just warm up your legs – it gets your appetite race-ready too 🍗🏃💨 'KFC Run 2026' turns sweat straight back into something delicious, and it's built for proper fried chicken devotee",
     "image": "data/timeoutbangkok/DaO_quAG6DI/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaO_quAG6DI/",
@@ -365,14 +360,15 @@
   {
     "handle": "lifestyleasiath",
     "category": "旅遊",
-    "place": "魚形包包",
+    "place": "海邊",
     "vibe_tags": [
-      "時尚",
+      "文青",
       "夏日",
       "輕鬆"
     ],
-    "date_score": 5,
-    "summary": "這篇貼文介紹了一些有趣的魚形包包，非常適合夏天或海邊使用。雖然不是約會地點，但可以作為約會時的時尚配件，增添輕鬆的氛圍。",
+    "date_score": 6,
+    "end_date": null,
+    "summary": "這是一則介紹適合夏天或海邊的有趣魚形包包的貼文。這些包包充滿玩趣，適合輕鬆的約會氛圍。",
     "caption": "A perfect accessory for the summer or the sea-side, here’s our pick of the fun, playful fish-shaped bags right now. #Fish #LifestyleAsia #LifestyleAsiaTH",
     "image": "data/lifestyleasiath/DaO5Y5ynENf/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaO5Y5ynENf/",
@@ -381,14 +377,15 @@
   {
     "handle": "jiranarong2",
     "category": "展覽",
-    "place": "220c 餐廳",
+    "place": "220c 中餐廳",
     "vibe_tags": [
       "美食",
       "熱鬧",
-      "休閒"
+      "家庭"
     ],
     "date_score": 7,
-    "summary": "220c 餐廳是一家提供廣東菜的中餐廳，特色菜包括香港風味的燒鴨和脆皮豬肉。餐廳位於三合街，適合與朋友聚餐或約會，且不需預約即可享用部分菜品。",
+    "end_date": null,
+    "summary": "220c 是一家位於三ัคคี的廣東菜餐廳，主打正宗的港式燒鴨、脆皮豬和紅燒肉。這裡的菜品新鮮美味，適合與家人或朋友聚餐，但需要提前預訂的菜品也有。",
     "caption": "ในที่สุดแถวละแวกบ้านมีร้านอาหารจีนดีๆ อีกร้านแล้ว เป็นร้านจีนกวางตุ้ง เชฟเป็นคนฮ่องกง จริงๆ เชฟอยู่ไทยมานานแล้ว ถ้าบอกว่าเคยเป็นเชฟร้านโจ๊กฮ่องกงร้าน Top of mind แถวพระรามสี่ คงมีคนรู้แน่ๆ แต่ร้านนี้อ",
     "image": "data/jiranarong2/DaNtlsfk1Rz/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaNtlsfk1Rz/",
@@ -397,33 +394,19 @@
   {
     "handle": "richie_got_you",
     "category": "旅遊",
-    "place": "曼谷的昭披耶河",
+    "place": "湄南河沿岸",
     "vibe_tags": [
       "浪漫",
+      "靜謐",
       "戶外"
     ],
     "date_score": 8,
-    "summary": "這裡是曼谷的昭披耶河，擁有美麗的河景，非常適合約會。可以享受悠閒的河邊散步，感受曼谷的魅力。",
+    "end_date": null,
+    "summary": "這裡是湄南河沿岸，適合欣賞河景和享受浪漫時光。非常適合約會，特別是傍晚時分。無明確的結束日期。",
     "caption": "Bangkok and the view of along Chao Phraya River #bangkok #bangkokthailand #bangkoktravel",
     "image": "data/richie_got_you/DaNpoZxzlZq/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaNpoZxzlZq/",
     "timestamp": "2026-06-30T14:25:23.000Z"
-  },
-  {
-    "handle": "aj_some_more",
-    "category": "旅遊",
-    "place": "CO LIMITED",
-    "vibe_tags": [
-      "文青",
-      "熱鬧",
-      "美食"
-    ],
-    "date_score": 8,
-    "summary": "這是一個位於曼谷的泰國水果節，提供創意的鹹食、清爽的飲品和美味的甜點。活動僅到8月31日，適合喜愛美食的約會對象。",
-    "caption": "🇹🇭 I never thought Thai fruits could be transformed into dishes like these! 🤯🍽️ If you’re looking for a unique food experience in Bangkok, don’t miss the Thai Fruit Festival at CO LIMITED. From cr",
-    "image": "data/aj_some_more/DaNgzd-yIM6/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DaNgzd-yIM6/",
-    "timestamp": "2026-06-30T13:09:07.000Z"
   },
   {
     "handle": "goplaybangkok",
@@ -431,11 +414,12 @@
     "place": "Mother Roaster",
     "vibe_tags": [
       "文青",
-      "復古",
+      "浪漫",
       "靜謐"
     ],
     "date_score": 8,
-    "summary": "Mother Roaster 是一家由70歲奶奶經營的廢墟咖啡廳，提供手沖咖啡和舒適的環境，非常適合拍照和約會。店內裝潢復古，營業時間為每日09:00至17:00，位於曼谷老城區，交通便利。",
+    "end_date": null,
+    "summary": "Mother Roaster 是一家由70歲奶奶經營的廢墟咖啡廳，提供手沖咖啡，營業時間為每日 09:00 – 17:00。這裡不僅適合拍照打卡，還能享受濃郁的咖啡香氣，適合咖啡愛好者和約會。",
     "caption": "\\ #曼谷老城區超酷廢墟咖啡・老奶奶經營的 Mother Roaster 👵☕ / 「不要浪費剩餘的時間，鼓勵自己來外面學習新知，並且要做自己愛做的事」就是這樣的想法激發了一位70歲的奶奶 Mrs.Pim，讓她在遲暮之年做了個大膽決定，在石龍軍路上的老屋二樓開了咖啡廳，實現她自己的咖啡夢，店名是 Mother Roaster 。 Mother Roaster 咖啡廳開幕後，充滿話題性的廢墟咖啡廳",
     "image": "data/goplaybangkok/DaNgAb_SYmO/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaNgAb_SYmO/",
@@ -451,7 +435,8 @@
       "浪漫"
     ],
     "date_score": 8,
-    "summary": "Marche’ Thonglor 是一個新開的白天咖啡館，提供多樣的飲品和糕點，非常適合約會。這裡的氛圍熱鬧，適合享受輕鬆的午餐時光。",
+    "end_date": null,
+    "summary": "Marche’ Thonglor 新推出的白天咖啡概念，提供多樣飲品和糕點，非常適合約會。這裡的氛圍輕鬆愉快，適合享受悠閒的午後時光。",
     "caption": "LSA Events Recap: Here’s our event recap from 1-30 June 2026. 1. SIWILAI RADICAL CLUB has launched its daytime cafe concept at Marche’ Thonglor, offering a diverse range of beverages and pastries. 2. ",
     "image": "data/lifestyleasiath/DaNZHtlEwC7/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaNZHtlEwC7/",
@@ -463,7 +448,8 @@
     "place": "曼谷",
     "vibe_tags": [],
     "date_score": 5,
-    "summary": "這則貼文提到曼谷市長Chadchart Sittipunt的政策，與旅遊約會無直接關聯。適合對曼谷政治感興趣的人，但不特別適合約會。",
+    "end_date": null,
+    "summary": "這則貼文提到曼谷市長查德查特·西提蓬在選舉中獲勝，並提出了他的政策計畫。雖然沒有具體的約會地點，但曼谷本身是一個充滿活力的城市，適合探索和約會。",
     "caption": "After winning Sunday’s election by a landslide, we list out some of the major and ambitious policies Chadchart Sittipunt has proposed for his second term as Bangkok governor. Tap the link in bio for d",
     "image": "data/lifestyleasiath/DaNSg8WlV42/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaNSg8WlV42/",
@@ -472,30 +458,15 @@
   {
     "handle": "timeoutbangkok",
     "category": "市集",
-    "place": "MMAD Gallery 1",
-    "vibe_tags": [
-      "藝術",
-      "靜謐",
-      "文化"
-    ],
-    "date_score": 7,
-    "summary": "這是一個名為「Pillow」的藝術展，展出時間為7月9日至8月23日，免費入場。展覽探討失眠和內心深處的情感，適合喜愛藝術和靜謐氛圍的約會。",
-    "caption": "Cool art might come from the worst nights 🌙 Pillow, the debut solo show from Sittha Jantharawong, better known as @hommes.hom, gathers up the small sleepless hours most of us would rather forget and ",
-    "image": "data/timeoutbangkok/DaNKs84GxTt/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DaNKs84GxTt/",
-    "timestamp": "2026-06-30T09:54:35.000Z"
-  },
-  {
-    "handle": "timeoutbangkok",
-    "category": "市集",
     "place": "曼谷藝術雙年展 2026",
     "vibe_tags": [
       "文青",
-      "藝術",
-      "熱鬧"
+      "熱鬧",
+      "藝術"
     ],
-    "date_score": 8,
-    "summary": "曼谷藝術雙年展 2026 將於 2026 年 10 月 26 日至 2027 年 2 月 28 日舉行，展出來自泰國及全球的當代藝術作品。這是一個適合約會的藝術活動，可以一起探索創意與思考。",
+    "date_score": 9,
+    "end_date": "2027-02-28",
+    "summary": "曼谷藝術雙年展 2026 將於 2026 年 10 月 26 日至 2027 年 2 月 28 日舉行，展出來自泰國及全球的當代藝術作品。這是一個充滿創意與討論的藝術盛會，非常適合約會時一起探索藝術的情侶。",
     "caption": "Bangkok Art Biennale 2026 is rolling back into town, and this one is built around a theme with plenty of bite. A fresh wave of artists from Thailand and around the world has joined the city's sprawlin",
     "image": "data/timeoutbangkok/DaM06CRm_hV/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaM06CRm_hV/",
@@ -511,7 +482,8 @@
       "奢華"
     ],
     "date_score": 8,
-    "summary": "Seren Le Moment 是位於曼谷的奢華美容院，提供專業的護膚服務，讓顧客享受個人化的護理體驗。這裡的環境靜謐，適合約會時放鬆心情，享受彼此的陪伴。",
+    "end_date": null,
+    "summary": "Seren Le Moment 是一家位於曼谷的奢華美容中心，提供專業的皮膚護理服務，讓你在私密的環境中享受放鬆的時光。這裡適合約會，特別是對於喜歡美容護理的伴侶。",
     "caption": "The first thing they do is look at your face. Really look at it. 20 years of Parisian expertise, serious actives and a private room entirely to yourself. Just off Sukhumvit 49, @seren_le_moment offers",
     "image": "data/timeoutbangkok/DaMpGrZm7vM/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaMpGrZm7vM/",
@@ -524,10 +496,11 @@
     "vibe_tags": [
       "熱鬧",
       "音樂",
-      "活動"
+      "浪漫"
     ],
     "date_score": 8,
-    "summary": "這是一場 Zara Larsson 的音樂會，將於2026年11月1日在 UOB LIVE 舉行。票價從 2,800 泰銖起，適合喜愛音樂和熱鬧氛圍的約會。",
+    "end_date": null,
+    "summary": "這是一場 Zara Larsson 的音樂會，將於 2026 年 11 月 1 日在 UOB LIVE 舉行。票價從 2,800 泰銖起，非常適合喜愛音樂的情侶約會。",
     "caption": "Looks like we’re living the lush life. Zara Larsson is bringing her infectious pop anthems to Bangkok later this year. The concert takes place on 1 November 2026 at UOB LIVE and is part of her “Midnig",
     "image": "data/lifestyleasiath/DaMkpbQz37j/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaMkpbQz37j/",
@@ -536,14 +509,15 @@
   {
     "handle": "lifestyleasiath",
     "category": "旅遊",
-    "place": "DFA亞洲設計獎",
+    "place": "DFA 亞洲設計獎 2026",
     "vibe_tags": [
       "創意",
       "專業",
-      "熱鬧"
+      "國際"
     ],
     "date_score": 5,
-    "summary": "這是關於DFA亞洲設計獎的貼文，邀請設計師和品牌參加，提交截止日期為7月15日。這個活動適合對設計有興趣的人參加，但不特別適合約會。",
+    "end_date": "2026-07-15",
+    "summary": "這是DFA亞洲設計獎的徵件活動，邀請設計師和品牌參加，截止日期為7月15日。此活動適合對設計有興趣的情侶參加，能夠感受創意氛圍。",
     "caption": "Exceptional design deserves recognition ✨ The DFA Design for Asia Awards 2026 submissions is now extending until 15 July, inviting designers, brands, and creative studios to showcase their work on thi",
     "image": "data/lifestyleasiath/DaMUbennJNE/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaMUbennJNE/",
@@ -557,8 +531,9 @@
       "熱帶",
       "浪漫"
     ],
-    "date_score": 8,
-    "summary": "這是一家位於曼谷的酒店，擁有熱帶風情的氛圍。非常適合情侶約會或度假，享受放鬆的時光。",
+    "date_score": 7,
+    "end_date": null,
+    "summary": "這是一家位於曼谷的酒店，擁有熱帶風情的氛圍，非常適合情侶約會。酒店的環境舒適，讓人放鬆。",
     "caption": "Found a hotel in Bangkok with tropical vibes #bangkok #bangkokthailand #bangkoktravel 📍Cocoon BKK",
     "image": "data/richie_got_you/DaLJZQXT3mP/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaLJZQXT3mP/",
@@ -567,13 +542,14 @@
   {
     "handle": "lifestyleasiath",
     "category": "旅遊",
-    "place": "曼谷活動",
+    "place": "曼谷藝術島節",
     "vibe_tags": [
       "熱鬧",
-      "文青"
+      "戶外"
     ],
     "date_score": 7,
-    "summary": "這篇貼文介紹了在曼谷的多個活動，包括夜間排舞和藝術島節，時間為2026年6月29日至7月5日。適合喜歡熱鬧和文化活動的約會對象。",
+    "end_date": "2026-07-05",
+    "summary": "這是曼谷的一個藝術島節，將於2026年6月29日至7月5日舉行。活動適合喜愛藝術和熱鬧氛圍的約會對象。",
     "caption": "From a night of line dancing to the Art Island festival, here are the best things to do in Bangkok from 29 June to 5 July 2026. Tap the link in bio for details. #LifestyleasiaTH #whattodo #bangkok #ev",
     "image": "data/lifestyleasiath/DaKvJqPk_mT/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaKvJqPk_mT/",
@@ -588,7 +564,8 @@
       "熱鬧"
     ],
     "date_score": 7,
-    "summary": "這則貼文提到曼谷，邀請大家分享對這座城市的印象。適合喜歡熱鬧和探索新地點的約會對象，特別是對旅遊有興趣的人。",
+    "end_date": null,
+    "summary": "這則貼文提到泰國曼谷，鼓勵人們分享對這個城市的印象，並提供旅遊建議。適合喜歡探索城市的約會對象。",
     "caption": "🇹🇭 Tell me you’re in Bangkok without telling me you’re in Bangkok. 👀 What’s the first thing that comes to your mind? 🇹🇭😂 Comment “Bangkok” and I’ll send you my list of must-visit places in the c",
     "image": "data/aj_some_more/DaKpaiXy7yB/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaKpaiXy7yB/",
@@ -597,14 +574,15 @@
   {
     "handle": "timeoutbangkok",
     "category": "市集",
-    "place": "UOB Live Bangkok",
+    "place": "曼谷午夜陽光音樂會",
     "vibe_tags": [
       "熱鬧",
       "音樂",
-      "活動"
+      "浪漫"
     ],
     "date_score": 8,
-    "summary": "這是一場由 Zara Larsson 帶來的 Midnight Sun Tour，將於11月1日在 UOB Live Bangkok 舉行。票價從 B2,800 到 B3,900，VIP 套票為 B9,000，適合喜歡音樂活動的約會對象。",
+    "end_date": null,
+    "summary": "這是一場由 @zaralarsson 帶來的音樂會，將於11月1日在曼谷舉行。票價範圍從B2,800到B3,900，VIP套票為B9,000，非常適合音樂愛好者的約會選擇。",
     "caption": "Bangkok pop season is not slowing down 🌺🐬 @zaralarsson is bringing the Midnight Sun Tour to @uoblive_bangkok on November 1. Named after the Scandinavian summer phenomenon where daylight refuses to q",
     "image": "data/timeoutbangkok/DaKpTs7G_x6/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaKpTs7G_x6/",
@@ -613,14 +591,15 @@
   {
     "handle": "timeoutbangkok",
     "category": "市集",
-    "place": "Issara",
+    "place": "Issara餐廳",
     "vibe_tags": [
       "文青",
       "浪漫",
-      "美食"
+      "熱鬧"
     ],
-    "date_score": 9,
-    "summary": "Issara 是普吉島最新的餐廳，由一位大廚和一位調酒師兄弟共同經營，提供結合歐洲技術與亞洲風味的美食體驗。這裡的每一道菜和每一杯雞尾酒都經過精心設計，非常適合約會。",
+    "date_score": 8,
+    "end_date": null,
+    "summary": "Issara餐廳是普吉島最新的熱點，由一位大廚和一位調酒師兄弟共同經營，提供結合歐洲技術與亞洲風味的美食體驗。這裡的每一道菜和每一杯雞尾酒都經過精心設計，非常適合約會。",
     "caption": "Issara (@issara.phuket) is Phuket’s newest obsession. A restaurant that brings together two brothers – a MasterChef-winning chef and an accomplished mixologist – both sharing a love for hospitality an",
     "image": "data/timeoutbangkok/DaKSCGRnHhE/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaKSCGRnHhE/",
@@ -630,12 +609,10 @@
     "handle": "timeoutbangkok",
     "category": "市集",
     "place": "曼谷",
-    "vibe_tags": [
-      "熱鬧",
-      "城市"
-    ],
+    "vibe_tags": [],
     "date_score": 5,
-    "summary": "這則貼文提到曼谷市長查查特的當選，顯示出曼谷市民對他的信任和支持。雖然這不是一個約會地點，但曼谷的城市氛圍和熱鬧的選舉活動可以成為約會的背景。",
+    "end_date": null,
+    "summary": "這則貼文慶祝查特查特連任曼谷市長，展現了曼谷市民的信心。雖然沒有具體的約會地點，但曼谷本身是一個充滿活力的城市，適合約會。",
     "caption": "Congratulations Governor! Chadchart wins a landslide vote for a second term. More than a million votes from the people of Bangkok seal Chadchart Sittipunt's return as Governor – a loud, clear sign tha",
     "image": "data/timeoutbangkok/DaKKcVNGxEy/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaKKcVNGxEy/",
@@ -651,7 +628,8 @@
       "戶外"
     ],
     "date_score": 8,
-    "summary": "EKM6 是一個結合植物性產品、咖啡館和活動空間的社區商場，位於 Ekkamai Soi 6，開放時間為每天早上 8 點到晚上 8 點。這裡適合想要放鬆和接近自然的約會，特別適合喜愛可持續生活方式的人。",
+    "end_date": null,
+    "summary": "EKM6 是一個位於 Ekkamai Soi 6 的社區商場，提供植物性產品、咖啡和活動空間，適合想要放鬆和親近自然的城市居民。這裡每天營業，開放時間為早上 8 點到晚上 8 點，非常適合約會。",
     "caption": "Right now, the trend of plant-based eating and sustainable living is becoming increasingly popular among urban people. Today, we would like to introduce a place that brings together plant-based produc",
     "image": "data/timeoutbangkok/DaJ2iUADCdN/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaJ2iUADCdN/",
@@ -660,14 +638,15 @@
   {
     "handle": "aj_some_more",
     "category": "旅遊",
-    "place": "曼谷湄南河遊船",
+    "place": "昭披耶河公船",
     "vibe_tags": [
-      "浪漫",
+      "文青",
       "戶外",
-      "文青"
+      "浪漫"
     ],
     "date_score": 8,
-    "summary": "這是一個經濟實惠的曼谷遊覽方式，只需 40 泰銖即可搭乘公共船隻，欣賞湄南河的美景。適合約會的戶外活動，特別是喜歡水上活動的情侶。",
+    "end_date": null,
+    "summary": "搭乘昭披耶河公船是探索曼谷的便宜且風景優美的方式。只需 40 泰銖即可享受河上美景，非常適合約會。還可以選擇購買 1 天無限次搭乘的通行證。",
     "caption": "🚤 Explore Bangkok for just 40 THB! 🇹🇭 One of the cheapest and most scenic ways to see the city. Hop on the public boat from Sathorn Pier and enjoy Bangkok from the Chao Phraya River. 💬 Comment “ba",
     "image": "data/aj_some_more/DaJzB0qyfo1/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaJzB0qyfo1/",
@@ -681,8 +660,9 @@
       "熱鬧",
       "運動"
     ],
-    "date_score": 6,
-    "summary": "這是即將於香港舉辦的2027 PUMA HYROX 世界錦標賽，活動將於明年舉行。適合喜愛運動和熱鬧氛圍的情侶參加。",
+    "date_score": 7,
+    "end_date": null,
+    "summary": "這是一個即將在香港舉辦的運動盛事，2027 PUMA HYROX 世界錦標賽將於明年舉行。適合喜愛運動和熱鬧氣氛的約會。",
     "caption": "Hong Kong is set to host the 2027 PUMA HYROX World Championships a year from now. From dates and what to expect, here’s all you need to know. Tap the link in bio for details. #LifestyleAsia #Lifestyle",
     "image": "data/lifestyleasiath/DaJvr-vHMQZ/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaJvr-vHMQZ/",
@@ -696,8 +676,9 @@
       "熱鬧",
       "探索"
     ],
-    "date_score": 6,
-    "summary": "這篇貼文提到曼谷是一個充滿驚喜的城市，適合探索和冒險。雖然沒有具體的約會地點，但曼谷的熱鬧氛圍適合與伴侶一起發掘新事物。",
+    "date_score": 7,
+    "end_date": null,
+    "summary": "這篇貼文提到曼谷充滿驚喜，是個適合探索的旅遊地點。若你喜歡熱鬧的氛圍，這裡非常適合約會。",
     "caption": "Bangkok is full of surprises 🇹🇭🌈 Follow ➡️ @aj.some.more for more Bangkok content",
     "image": "data/aj_some_more/DaIE8qzSa_4/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaIE8qzSa_4/",
@@ -709,11 +690,11 @@
     "place": "健身房",
     "vibe_tags": [
       "運動",
-      "時尚",
-      "健康"
+      "時尚"
     ],
     "date_score": 5,
-    "summary": "這篇貼文探討了健身房的穿搭風格，並指出奢侈品牌也開始進入健身與健康領域。雖然主要是針對健身房的穿搭，但若約會對象喜歡運動，這裡可以成為一個不錯的約會地點。",
+    "end_date": null,
+    "summary": "這則貼文探討了健身房的時尚穿搭，並提到奢侈品牌也開始進軍健身與健康領域。雖然主題偏向運動，但健身房的氛圍也可以成為約會的選擇之一。",
     "caption": "As even luxury fashion houses are tapping into the fitness and wellness space, what you may wear to the gym is becoming increasingly varied. Nonetheless, there are common stereotypes, so in our latest",
     "image": "data/lifestyleasiath/DaIB-0Nlvon/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaIB-0Nlvon/",
@@ -725,10 +706,12 @@
     "place": "倫敦音樂會",
     "vibe_tags": [
       "熱鬧",
+      "音樂",
       "時尚"
     ],
-    "date_score": 6,
-    "summary": "這是一個關於倫敦音樂會的貼文，展現了時尚和音樂的結合，非常適合喜歡音樂和潮流的人。適合約會，但可能需要考慮票價和時間安排。",
+    "date_score": 7,
+    "end_date": null,
+    "summary": "這是一場倫敦的音樂會，充滿了熱鬧的氛圍和時尚的元素。適合喜歡音樂和社交的約會對象。",
     "caption": "From a viral mini camera to a London concert look, here are our #WeeklyObsessions this week. #LifestyleAsia #LifestyleAsiaTH",
     "image": "data/lifestyleasiath/DaHRyflHHRs/image_2.jpg",
     "postUrl": "https://www.instagram.com/p/DaHRyflHHRs/",
@@ -737,13 +720,11 @@
   {
     "handle": "jiranarong2",
     "category": "展覽",
-    "place": "展覽",
-    "vibe_tags": [
-      "藝術",
-      "靜謐"
-    ],
-    "date_score": 6,
-    "summary": "這是一個展覽的貼文，表達了作者的快樂。適合喜歡藝術和靜謐氛圍的約會，能享受彼此的陪伴。",
+    "place": "",
+    "vibe_tags": [],
+    "date_score": 1,
+    "end_date": null,
+    "summary": "這則貼文沒有提供具體的地點或活動資訊，因此無法判斷其約會適合度。",
     "caption": "ฉันมีความสุข",
     "image": "data/jiranarong2/DaGHpNmz4d3/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaGHpNmz4d3/",
@@ -754,31 +735,16 @@
     "category": "市集",
     "place": "曼谷經典紀念品",
     "vibe_tags": [
-      "懷舊",
-      "熱鬧"
+      "文青",
+      "懷舊"
     ],
-    "date_score": 6,
-    "summary": "這是一個關於曼谷經典紀念品的貼文，讓人回憶起旅遊時的美好時光。雖然沒有具體的地點或活動，但可以作為約會時的話題，適合熱鬧的市集氛圍。",
+    "date_score": 5,
+    "end_date": null,
+    "summary": "這篇貼文提到曼谷的經典紀念品，喚起了許多人對於旅行的回憶。雖然沒有具體的活動或地點，但這樣的話題適合與伴侶分享旅行經歷，增進感情。",
     "caption": "Who remembers snatching these classic Bangkok souvenirs? 🙋‍♀️ Every trip to Bangkok used to come with at least one of these iconic picks – which one takes you straight back? Tell us in the comments b",
     "image": "data/timeoutbangkok/DaFn_qLzZKk/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaFn_qLzZKk/",
     "timestamp": "2026-06-27T11:36:51.000Z"
-  },
-  {
-    "handle": "timeoutbangkok",
-    "category": "市集",
-    "place": "曼谷劇場藝術節",
-    "vibe_tags": [
-      "文青",
-      "熱鬧",
-      "藝術"
-    ],
-    "date_score": 8,
-    "summary": "曼谷劇場藝術節將於11月14日至29日舉行，這是一個聚集各類藝術家的盛會，展現他們的創作。這個活動適合喜愛藝術和表演的約會對象，氛圍熱鬧且富有創意。",
-    "caption": "At the end of this year Bangkok turns itself over to imagination once more, with a festival that gathers everyone to celebrate the thrill of live performance 👩‍🎨🖼🎨 The @bangkok_theatre_festival hi",
-    "image": "data/timeoutbangkok/DaFJspbm1Ax/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DaFJspbm1Ax/",
-    "timestamp": "2026-06-27T07:11:54.000Z"
   },
   {
     "handle": "timeoutbangkok",
@@ -789,7 +755,8 @@
       "文青"
     ],
     "date_score": 7,
-    "summary": "這是一個熱鬧的市集，適合在周末前往。建議攜帶雨傘和現金，以便購買書籍和商品，非常適合約會時一起探索。",
+    "end_date": null,
+    "summary": "這是一個充滿活力的市集，適合喜歡書籍和周邊商品的人。建議攜帶雨傘和現金，適合約會時一起探索。",
     "caption": "July looks busy, then. Carry an umbrella, keep some cash for books and merch and expect your weekends to fill up quickly. 🔗 Tap the link in @timeoutbangkok’s bio to read it in full. #TimeOutBangkok",
     "image": "data/timeoutbangkok/DaExwifmw2d/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaExwifmw2d/",
@@ -798,14 +765,15 @@
   {
     "handle": "lifestyleasiath",
     "category": "旅遊",
-    "place": "Stray Kids 世界巡演",
+    "place": "曼谷",
     "vibe_tags": [
       "熱鬧",
       "音樂",
-      "活動"
+      "娛樂"
     ],
     "date_score": 9,
-    "summary": "這是韓國男團 Stray Kids 的「Run It」世界巡演，將於2027年在曼谷舉行。這樣的音樂活動非常適合約會，特別是對於喜愛K-pop的情侶。",
+    "end_date": null,
+    "summary": "K-pop 男團 Stray Kids 將於 2027 年在曼谷舉行「Run It」世界巡演。這是一個適合喜愛音樂和演出的約會活動，詳細資訊可透過連結查詢。",
     "caption": "K-pop boyband Stray Kids (@realstraykids) is bringing their “Run It” World Tour to Bangkok this 2027. Here’s what we know. Tap the link in bio for details. #LifestyleAsiaThailand #LifestyleAsiaTH #Str",
     "image": "data/lifestyleasiath/DaEmAqenKhA/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaEmAqenKhA/",
@@ -818,10 +786,11 @@
     "vibe_tags": [
       "文青",
       "靜謐",
-      "旅遊"
+      "文化"
     ],
     "date_score": 7,
-    "summary": "這篇文章介紹了泰國南邦的慢旅行概念，鼓勵人們以放鬆的心態探索當地。適合喜歡靜謐氛圍的約會對象，享受悠閒的時光。",
+    "end_date": null,
+    "summary": "這篇文章介紹了在泰國南邦的慢旅行，鼓勵人們以放鬆的心態探索當地文化。適合喜愛深度旅遊的情侶，享受靜謐的氛圍。",
     "caption": "Welcome to “A Local’s Guide to Thailand,” a column where we explore one travel philosophy through a Thai lens. Each month, we share an itinerary centred around one genre of travel and one destination.",
     "image": "data/lifestyleasiath/DaDNRgmGLs8/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaDNRgmGLs8/",
@@ -837,7 +806,8 @@
       "靜謐"
     ],
     "date_score": 8,
-    "summary": "這是一家位於泰國的餐廳，專注於海鮮料理，並且有著百年歷史的古老建築。餐廳的氛圍非常宜人，適合家庭聚餐或浪漫約會。",
+    "end_date": null,
+    "summary": "這是一家位於泰國的餐廳，專注於海鮮料理，並有著百年歷史的古老建築。餐廳環境優雅，適合家庭聚餐或約會，享受美味的泰國料理。",
     "caption": "ร้านบ้านสุริยนที่ศรีราชา เปิดมาตั้งแต่ พศ 2502 แต่เพิ่งเคยมาปีนี้ครั้งแรก 55 ที่นี่น่าจะเป็นบ้านตากอากาศตั้งแต่สมัย ร.5 ยื่นออกไปในทะเลมีบังกะโลอายุ 100 ปีที่กำลังจะอนุรักษ์ตั้งแต่ทางเข้า ร้านนี้เป็นร",
     "image": "data/jiranarong2/DaDJ2QdkxhQ/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaDJ2QdkxhQ/",
@@ -849,11 +819,12 @@
     "place": "曼谷夜間卡拉OK",
     "vibe_tags": [
       "熱鬧",
-      "娛樂",
-      "夜生活"
+      "戶外",
+      "文青"
     ],
-    "date_score": 7,
-    "summary": "這是一個介紹曼谷夜間卡拉OK的貼文，適合喜歡唱歌和熱鬧氛圍的約會。雖然沒有具體的時間和價格，但這裡的娛樂設施非常適合夜間約會。",
+    "date_score": 8,
+    "end_date": null,
+    "summary": "這篇貼文介紹了曼谷的夜間卡拉OK和餐廳酒吧，適合喜歡唱歌和熱鬧氛圍的約會對象。無論是日式連鎖店還是泰國本地的卡拉OK房，都能讓你享受一個充滿樂趣的夜晚。",
     "caption": "Bangkok knows how to turn a night out into a singalong 🎤🕺🎶 From Japanese chains to all-night Thai karaoke rooms and restaurant-bars with late-night setups. Here are the best, ranked from strongest ",
     "image": "data/timeoutbangkok/DaC5j60m7DT/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaC5j60m7DT/",
@@ -868,7 +839,8 @@
       "熱鬧"
     ],
     "date_score": 6,
-    "summary": "這是一個結合哈利波特與世界盃的主題活動，適合喜愛魔法世界的朋友。雖然貼文沒有具體的時間和地點，但這樣的主題活動通常會吸引不少人，適合約會時一起體驗。",
+    "end_date": null,
+    "summary": "這是一個與哈利波特相關的主題活動，適合對魔法世界感興趣的人。雖然與世界盃無關，但仍然可以吸引許多粉絲。適合喜歡電影和文化的約會對象。",
     "caption": "If perhaps you don’t really get the World Cup but are well-versed in the Wizarding World, we’ve made a helpful explainer for you. (Images: Warner Bros., My Profit Tutor/Unsplash) #WorldCup #HarryPotte",
     "image": "data/lifestyleasiath/DaC4fCRmFyj/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaC4fCRmFyj/",
@@ -877,44 +849,131 @@
   {
     "handle": "lifestyleasiath",
     "category": "旅遊",
-    "place": "曼谷",
-    "vibe_tags": [],
-    "date_score": 5,
-    "summary": "這則貼文提到曼谷即將在6月28日舉行新州長選舉。雖然沒有具體的約會地點，但選舉期間的活動可能會吸引一些人前來參加，適合對政治有興趣的約會。",
-    "caption": "Bangkok is set to elect a new governor this Sunday (28 June). Here’s what to be prepared for between now and election day.",
-    "image": "data/lifestyleasiath/DaCqf0Zk0Sk/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DaCqf0Zk0Sk/",
-    "timestamp": "2026-06-26T08:00:04.000Z"
-  },
-  {
-    "handle": "lifestyleasiath",
-    "category": "旅遊",
     "place": "富國島",
     "vibe_tags": [
       "靜謐",
+      "浪漫",
       "旅遊"
     ],
     "date_score": 7,
-    "summary": "這篇貼文介紹了富國島，強調了這裡慢活的生活方式。適合想要放鬆心情的約會對象，是個不錯的旅遊選擇。",
+    "end_date": null,
+    "summary": "這篇貼文介紹了富國島，強調了一種悠閒的生活方式。適合喜愛放鬆和享受自然的約會對象。這裡是個理想的旅遊地點。",
     "caption": "For this edition of #LSALongWeekend, we head to Phu Quoc to embrace a slower way of life. #AnOdeToSpain #PhuQuoc #TravelVlog #LifestyleAsia LifestyleAsiaTH",
     "image": "data/lifestyleasiath/DaCjh5gTj2g/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaCjh5gTj2g/",
     "timestamp": "2026-06-26T07:05:59.000Z"
   },
   {
-    "handle": "timeoutbangkok",
-    "category": "市集",
-    "place": "曼谷河濱市集",
+    "handle": "aj_some_more",
+    "category": "旅遊",
+    "place": "Wat Paknam Phasi Charoen",
     "vibe_tags": [
       "文青",
-      "熱鬧",
+      "浪漫",
       "戶外"
     ],
     "date_score": 8,
-    "summary": "這是一個在曼谷河濱舉行的市集，聚集了超過50個攤位，販售二手衣物、復古收藏品和手作藝術品。市集於6月27-28日的週末舉行，入場免費，非常適合約會後一起逛逛。",
-    "caption": "Clear a little space in your wardrobe and make a beeline for Whatever You Art 🛍️ This weekend market brings together influencers, artists, makers and everyday sellers at River City Bangkok, with more",
-    "image": "data/timeoutbangkok/DaCjjbbG4nf/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DaCjjbbG4nf/",
-    "timestamp": "2026-06-26T07:00:06.000Z"
+    "end_date": null,
+    "summary": "這是一個位於曼谷的免費寺廟拍照景點，擁有壯觀的大佛景觀，非常適合拍照留念。這個地點適合約會，特別是喜歡戶外活動的情侶。",
+    "caption": "📍A FREE temple photo spot in Bangkok that looks straight out of a postcard! 🇹🇭✨ If you’re visiting Bangkok, don’t miss this iconic view of the Giant Buddha at Wat Paknam Phasi Charoen. The best par",
+    "image": "data/aj_some_more/DaCLBnZBzIT/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DaCLBnZBzIT/",
+    "timestamp": "2026-06-26T03:25:13.000Z"
+  },
+  {
+    "handle": "lifestyleasiath",
+    "category": "旅遊",
+    "place": "Disney+",
+    "vibe_tags": [
+      "娛樂",
+      "輕鬆"
+    ],
+    "date_score": 5,
+    "end_date": null,
+    "summary": "這則貼文提到《The Bear》在 Disney+ 上推出第五季，適合喜歡追劇的情侶一起享受。雖然是線上平台，但可以在家中輕鬆約會，享受劇集帶來的娛樂。無明確結束日期。",
+    "caption": "The Bear returns with Season 5 today (26 June 2026), with all eight episodes dropping at 9am (Thailand time) on Disney+. To celebrate the acclaimed dramedy's latest chapter, we're doing what we do bes",
+    "image": "data/lifestyleasiath/DaCBV1NnHL7/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DaCBV1NnHL7/",
+    "timestamp": "2026-06-26T02:01:12.000Z"
+  },
+  {
+    "handle": "richie_got_you",
+    "category": "旅遊",
+    "place": "曼谷萬豪行政公寓",
+    "vibe_tags": [
+      "浪漫",
+      "靜謐"
+    ],
+    "date_score": 6,
+    "end_date": null,
+    "summary": "這是一家位於曼谷的萬豪行政公寓，適合尋找舒適住宿的旅客。該公寓提供高品質的服務，非常適合情侶約會或短期度假。",
+    "caption": "Looking for a Bangkok hotel that’s worth booking? Check out Marriott Executive Apartments, Bangkok Townhall Sukhumvit #agodacreatorcommunity #agodaambassador #agoda #seetheworldforless",
+    "image": "data/richie_got_you/DaAwfEbTjcP/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DaAwfEbTjcP/",
+    "timestamp": "2026-06-25T14:16:56.000Z"
+  },
+  {
+    "handle": "goplaybangkok",
+    "category": "旅遊",
+    "place": "Luxnara Jewelry CentralWorld",
+    "vibe_tags": [
+      "文青",
+      "浪漫",
+      "熱鬧"
+    ],
+    "date_score": 8,
+    "end_date": null,
+    "summary": "Luxnara 是位於曼谷 Central World 的人氣手作品牌，專賣經過四面佛祈福的許願手鍊。店內目前有買四送一的優惠，非常適合與朋友一起前來挑選，增添旅程的儀式感與好運。",
+    "caption": "\\ #CentralWorld必逛手作品牌・曼谷四面佛加持的超人氣許願手鍊🪄🔮 / 很多朋友會問，四面佛到底該怎麼拜❓ ​其實泰國當地人在參拜時，並沒有硬性規定哪一面要拜什麼，只要誠心祈求，那份心意就是與神佛最好的連結🙏 ​ 而近年很流行的一種參拜方式，就是 #帶著許願手鍊去祈福！ ​ 位於 Central World 二樓的 Luxnara，是不少人挑選幸運手鍊的人氣品牌之一。他們家的全系",
+    "image": "data/goplaybangkok/DaAoCOIEtqR/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DaAoCOIEtqR/",
+    "timestamp": "2026-06-25T13:00:06.000Z"
+  },
+  {
+    "handle": "timeoutbangkok",
+    "category": "市集",
+    "place": "曼谷美食市集",
+    "vibe_tags": [
+      "熱鬧",
+      "美食",
+      "戶外"
+    ],
+    "date_score": 8,
+    "end_date": null,
+    "summary": "這個週末的曼谷美食市集提供多樣的美食選擇，包括北泰式特色的貝果和多種創意料理。適合約會的地方，享受美食與熱鬧的氛圍。",
+    "caption": "This week's food news takes us from bagels and doughnuts to tomatoes, durian and duck. Sydny Bagels (@sydnybagels) is serving a orthern Thai-inspired special in Charoen Krung, Côte by Mauro Colagreco ",
+    "image": "data/timeoutbangkok/DaAgVCwG9lZ/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DaAgVCwG9lZ/",
+    "timestamp": "2026-06-25T11:53:26.000Z"
+  },
+  {
+    "handle": "lifestyleasiath",
+    "category": "旅遊",
+    "place": "泰國",
+    "vibe_tags": [],
+    "date_score": 5,
+    "end_date": null,
+    "summary": "這篇貼文提到德國-尼日利亞足球員 Maduka Okoye 在泰國的活動建議。雖然沒有具體的約會地點，但可以作為旅遊參考，適合喜歡足球的情侶。",
+    "caption": "In case you haven’t heard: Maduka Okaye is in Thailand. Naturally, we came up with five things for the German-Nigerian footballer to do during his time here. @madukaokoye hit us up if you want more su",
+    "image": "data/lifestyleasiath/DaAdm0OlVCu/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DaAdm0OlVCu/",
+    "timestamp": "2026-06-25T11:29:42.000Z"
+  },
+  {
+    "handle": "lifestyleasiath",
+    "category": "旅遊",
+    "place": "泰國同志選美大賽",
+    "vibe_tags": [
+      "熱鬧",
+      "多元",
+      "慶祝"
+    ],
+    "date_score": 7,
+    "end_date": null,
+    "summary": "這是泰國首屆專為 toms 和跨性別男性舉辦的選美大賽，旨在慶祝驕傲月。活動詳情可透過帳號中的連結查詢，適合喜愛多元文化的約會對象參加。",
+    "caption": "Happy Pride Month, readers. It’s here and it’s queer: The Tom Thailand 2026, the country’s first-ever national pageant dedicated to toms and trans men. Here’s all you need to know about this. Tap the ",
+    "image": "data/lifestyleasiath/DaATuaiFnBY/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DaATuaiFnBY/",
+    "timestamp": "2026-06-25T10:03:21.000Z"
   }
 ]

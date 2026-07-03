@@ -8,11 +8,12 @@
   "images": [
     "data/richie_got_you/DZwNvjvT3wM/image_1.jpg"
   ],
-  "summary": "這則貼文提到對曼谷的旅行期待，適合喜歡旅遊的情侶。雖然沒有具體的地點或活動，但曼谷有許多適合約會的咖啡廳和景點。",
+  "summary": "這是一則提到曼谷的貼文，適合喜歡旅行和咖啡的約會對象。雖然沒有具體的店名，但可以想像是一個適合放鬆和交流的地方。",
   "place": "曼谷",
   "vibe_tags": [
     "文青",
-    "浪漫"
+    "靜謐"
   ],
-  "date_score": 6
+  "date_score": 6,
+  "end_date": null
 }

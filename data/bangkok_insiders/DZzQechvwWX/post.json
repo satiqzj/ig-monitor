@@ -8,11 +8,12 @@
   "images": [
     "data/bangkok_insiders/DZzQechvwWX/image_1.jpg"
   ],
-  "summary": "Tai Hong Gong Yok Khao 是一個位於曼谷的展覽地點，適合喜愛藝術和文化的人士。這裡的氛圍熱鬧，適合約會時一起探索新事物。",
+  "summary": "Tai Hong Gong Yok Khao 是一個位於曼谷的展覽，適合喜歡探索當地文化和藝術的人。這裡的氛圍熱鬧，適合約會時一起欣賞藝術作品。",
   "place": "Tai Hong Gong Yok Khao",
   "vibe_tags": [
-    "文青",
-    "熱鬧"
+    "熱鬧",
+    "文青"
   ],
-  "date_score": 6
+  "date_score": 6,
+  "end_date": null
 }

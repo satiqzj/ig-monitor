@@ -13,8 +13,13 @@
     "data/timeoutbangkok/DaPfWp2jN4i/image_5.jpg",
     "data/timeoutbangkok/DaPfWp2jN4i/image_6.jpg"
   ],
-  "place": "",
-  "vibe_tags": [],
-  "date_score": null,
-  "summary": "（分析失敗：Unexpected token 'T', \"Too many r\"... is not valid JSON）"
+  "place": "曼谷天際線電影活動",
+  "vibe_tags": [
+    "浪漫",
+    "戶外",
+    "文青"
+  ],
+  "date_score": 9,
+  "summary": "這是一個在曼谷河濱舉辦的天際線電影活動，時間為7月9日至12日。活動將會播放各類型的電影，非常適合情侶在星空下享受浪漫時光。",
+  "end_date": "2023-07-12"
 }

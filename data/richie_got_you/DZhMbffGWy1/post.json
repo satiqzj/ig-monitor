@@ -11,12 +11,12 @@
     "data/richie_got_you/DZhMbffGWy1/image_3.jpg",
     "data/richie_got_you/DZhMbffGWy1/image_4.jpg"
   ],
-  "summary": "這是一則慶祝生日的貼文，表達對於生活的感激。雖然沒有提到具體地點，但適合與親友共享溫馨時光，適合約會。",
-  "place": "生日慶祝",
+  "summary": "這是一則慶祝生日的貼文，提到對生活的感激。咖啡廳是一個適合與朋友聚會或慶祝的地方，適合約會。無具體的時間或價格資訊。",
+  "place": "咖啡廳",
   "vibe_tags": [
-    "慶祝",
-    "溫馨",
-    "靜謐"
+    "靜謐",
+    "文青"
   ],
-  "date_score": 7
+  "date_score": 6,
+  "end_date": null
 }

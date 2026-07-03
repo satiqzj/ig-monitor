@@ -8,11 +8,12 @@
   "images": [
     "data/aj_some_more/DZw1olfydma/image_1.jpg"
   ],
-  "summary": "這是一家位於查圖查克市場的高級泰式奶茶店，奶茶呈現精美，口感順滑。適合約會的地點，特別是喜歡嘗試新飲品的情侶。",
+  "summary": "這是一家位於查圖查克市場的高級泰式奶茶店，提供豐富順滑的奶茶，並以巨型冰球和金粉裝飾。適合約會時享受獨特的飲品。",
   "place": "查圖查克市場的泰式奶茶店",
   "vibe_tags": [
     "文青",
     "熱鬧"
   ],
-  "date_score": 7
+  "date_score": 7,
+  "end_date": null
 }

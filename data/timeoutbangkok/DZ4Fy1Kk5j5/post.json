@@ -12,12 +12,13 @@
     "data/timeoutbangkok/DZ4Fy1Kk5j5/image_4.jpg",
     "data/timeoutbangkok/DZ4Fy1Kk5j5/image_5.jpg"
   ],
-  "summary": "Burapa 東泰餐廳提供東泰風味的午餐套餐，價格在 B530 至 B550 之間，適合喜愛泰國料理的情侶。餐廳每天營業至晚上11點，是個享受美食和飲品的好地方，適合約會。",
-  "place": "Burapa 東泰餐廳",
+  "summary": "Burapa 提供東泰風味的午餐套餐，價格在 B530 至 B550 之間，包含多種美味選擇，適合喜愛泰國海岸風味的食客。餐廳每日營業，午餐時間為中午11點至下午2點，非常適合約會或與朋友聚餐。",
+  "place": "Burapa 東泰料理酒吧",
   "vibe_tags": [
+    "文青",
     "熱鬧",
-    "美食",
-    "時尚"
+    "美食"
   ],
-  "date_score": 8
+  "date_score": 8,
+  "end_date": null
 }

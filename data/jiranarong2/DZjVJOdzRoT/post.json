@@ -8,11 +8,12 @@
   "images": [
     "data/jiranarong2/DZjVJOdzRoT/image_1.jpg"
   ],
-  "summary": "這是一家位於春武里（Chonburi）的泰式湯麵店，提供獨特的湯麵料理，包含酸菜和豬肉。適合喜歡嘗試新口味的約會對象，但可能不算浪漫。",
-  "place": "泰式湯麵店",
+  "summary": "這是一家位於春武里（Chonburi）的餐廳，提供獨特的湯麵，搭配豐富的配料。適合約會時享受美食，特別是喜歡嘗試新口味的情侶。",
+  "place": "設定廟",
   "vibe_tags": [
-    "熱鬧",
-    "美食"
+    "美食",
+    "熱鬧"
   ],
-  "date_score": 6
+  "date_score": 6,
+  "end_date": null
 }

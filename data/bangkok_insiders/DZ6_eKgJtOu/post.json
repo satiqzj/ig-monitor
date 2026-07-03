@@ -8,11 +8,12 @@
   "images": [
     "data/bangkok_insiders/DZ6_eKgJtOu/image_1.jpg"
   ],
-  "summary": "這則貼文提到曼谷的氛圍，適合喜歡旅遊和探索城市的人。若你和伴侶喜歡熱鬧的環境，可以考慮在陽光明媚的日子一起前往曼谷。",
+  "summary": "這是一則關於曼谷的貼文，展現了曼谷在明亮日子的氛圍。適合喜歡熱鬧和旅遊的約會對象。",
   "place": "曼谷",
   "vibe_tags": [
     "熱鬧",
-    "文青"
+    "旅遊"
   ],
-  "date_score": 6
+  "date_score": 5,
+  "end_date": null
 }

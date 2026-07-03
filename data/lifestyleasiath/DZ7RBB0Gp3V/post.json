@@ -17,7 +17,7 @@
     "data/lifestyleasiath/DZ7RBB0Gp3V/image_9.jpg",
     "data/lifestyleasiath/DZ7RBB0Gp3V/image_10.jpg"
   ],
-  "summary": "這裡是集奢華、文化、美食及娛樂於一身的目的地，提供米其林星級餐廳和世界級展覽。非常適合約會，讓你們享受難忘的時光。",
+  "summary": "MGM MACAU 和 MGM COTAI 是一個集奢華、美食、文化和娛樂於一身的度假目的地。這裡有米其林星級餐廳、沉浸式體驗和世界級展覽，非常適合約會。",
   "place": "MGM MACAU 和 MGM COTAI",
   "vibe_tags": [
     "奢華",
@@ -25,5 +25,6 @@
     "美食",
     "娛樂"
   ],
-  "date_score": 9
+  "date_score": 9,
+  "end_date": null
 }

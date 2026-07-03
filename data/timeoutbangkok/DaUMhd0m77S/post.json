@@ -9,11 +9,9 @@
     "data/timeoutbangkok/DaUMhd0m77S/image_1.jpg",
     "data/timeoutbangkok/DaUMhd0m77S/image_2.jpg"
   ],
-  "place": "泰國",
-  "vibe_tags": [
-    "靜謐",
-    "文青"
-  ],
-  "date_score": 6,
-  "summary": "這篇貼文提到泰國被評選為亞洲最佳退休地點，適合考慮在此定居的人士。雖然主要是針對退休生活的分析，但也可以作為約會的靜謐環境選擇，適合喜歡悠閒氛圍的情侶。"
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "summary": "（分析失敗：Unexpected token 'T', \"Too many r\"... is not valid JSON）",
+  "end_date": null
 }

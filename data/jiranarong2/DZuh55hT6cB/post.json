@@ -8,11 +8,12 @@
   "images": [
     "data/jiranarong2/DZuh55hT6cB/image_1.jpg"
   ],
-  "summary": "這是一個位於舊城區的展覽，明天將正式開幕。適合喜愛藝術和文化的約會對象，能在靜謐的氛圍中交流。",
-  "place": "新地標展覽",
+  "summary": "這是一個位於舊城區的新地標，明天將正式開幕。適合喜愛藝術和文化的約會對象。若你們對展覽感興趣，這裡將會是一個不錯的選擇。",
+  "place": "新地標—舊城區的 TCDC 和 CEA",
   "vibe_tags": [
     "文青",
-    "靜謐"
+    "藝術"
   ],
-  "date_score": 7
+  "date_score": 7,
+  "end_date": null
 }

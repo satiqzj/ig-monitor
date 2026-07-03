@@ -13,11 +13,12 @@
     "data/richie_got_you/DZerIDFGfj3/image_5.jpg",
     "data/richie_got_you/DZerIDFGfj3/image_6.jpg"
   ],
-  "summary": "這則貼文提到曼谷的日常活動仍然正常進行，但因為哀悼公主的過世，部分活動和景點可能會有變動。適合想要體驗當地文化的約會，但需注意活動安排。",
+  "summary": "這篇貼文提到曼谷的日常活動大多正常進行，但因為泰國正在哀悼公主的逝世，某些活動和景點可能會有時間上的變動。適合想要體驗當地文化的約會。",
   "place": "曼谷",
   "vibe_tags": [
     "靜謐",
     "文化"
   ],
-  "date_score": 5
+  "date_score": 5,
+  "end_date": null
 }

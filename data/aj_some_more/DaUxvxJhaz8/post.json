@@ -1,0 +1,19 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DaUxvxJhaz8",
+  "postUrl": "https://www.instagram.com/p/DaUxvxJhaz8/",
+  "timestamp": "2026-07-03T08:50:12.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DaUxvxJhaz8/image_1.jpg"
+  ],
+  "place": "曼谷",
+  "vibe_tags": [
+    "旅遊",
+    "放鬆"
+  ],
+  "date_score": 5,
+  "end_date": null,
+  "summary": "這則貼文提到在曼谷旅遊的經歷，似乎是對於遺失耳機的感慨。曼谷是一個充滿活力的城市，適合放鬆和探索。"
+}

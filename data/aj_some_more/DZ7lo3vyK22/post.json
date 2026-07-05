@@ -1,0 +1,20 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DZ7lo3vyK22",
+  "postUrl": "https://www.instagram.com/p/DZ7lo3vyK22/",
+  "timestamp": "2026-06-23T14:06:30.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DZ7lo3vyK22/image_1.jpg"
+  ],
+  "place": "Bangkok’78",
+  "vibe_tags": [
+    "文青",
+    "浪漫",
+    "熱鬧"
+  ],
+  "date_score": 8,
+  "end_date": null,
+  "summary": "這是一個位於曼谷的酒店早餐自助餐，適合不住店的客人享用。每天早上6:30至11:00開放，非常適合約會或與朋友聚餐。"
+}

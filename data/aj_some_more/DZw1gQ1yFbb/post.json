@@ -1,0 +1,19 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DZw1gQ1yFbb",
+  "postUrl": "https://www.instagram.com/p/DZw1gQ1yFbb/",
+  "timestamp": "2026-06-19T09:51:50.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DZw1gQ1yFbb/image_1.jpg"
+  ],
+  "place": "查圖查克市場的泰式奶茶店",
+  "vibe_tags": [
+    "文青",
+    "熱鬧"
+  ],
+  "date_score": 7,
+  "end_date": null,
+  "summary": "這是一家位於查圖查克市場的高級泰式奶茶店，提供口感豐富且外觀精美的飲品。適合約會時享受美食的氛圍。"
+}

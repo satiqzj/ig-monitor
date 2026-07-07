@@ -1,0 +1,19 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DaechrRSU2p",
+  "postUrl": "https://www.instagram.com/p/DaechrRSU2p/",
+  "timestamp": "2026-07-07T03:02:11.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DaechrRSU2p/image_1.jpg"
+  ],
+  "place": "KinKin Seafood",
+  "vibe_tags": [
+    "熱鬧",
+    "美食"
+  ],
+  "date_score": 8,
+  "end_date": null,
+  "summary": "KinKin Seafood 位於曼谷的 Siam Paragon 美食廣場，提供多款新鮮海鮮料理，如百萬富翁蟹炒飯和迷你冬蔭麵。這裡的食物非常美味，適合約會時享受美食。"
+}

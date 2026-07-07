@@ -1,0 +1,19 @@
+{
+  "handle": "richie.got.you",
+  "category": "旅遊",
+  "shortCode": "DadKePHTKNg",
+  "postUrl": "https://www.instagram.com/p/DadKePHTKNg/",
+  "timestamp": "2026-07-06T15:01:06.000Z",
+  "type": "Video",
+  "images": [
+    "data/richie_got_you/DadKePHTKNg/image_1.jpg"
+  ],
+  "place": "Central Northville",
+  "vibe_tags": [
+    "熱鬧",
+    "購物"
+  ],
+  "date_score": 7,
+  "end_date": null,
+  "summary": "這是一個位於曼谷的最新購物中心，適合喜歡購物和熱鬧氛圍的約會。可以一起探索各種商店和餐廳。"
+}

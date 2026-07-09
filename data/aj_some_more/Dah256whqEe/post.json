@@ -1,0 +1,20 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "Dah256whqEe",
+  "postUrl": "https://www.instagram.com/p/Dah256whqEe/",
+  "timestamp": "2026-07-08T10:45:10.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/Dah256whqEe/image_1.jpg"
+  ],
+  "place": "Sabai Tayo",
+  "vibe_tags": [
+    "文青",
+    "靜謐",
+    "美食"
+  ],
+  "date_score": 8,
+  "end_date": null,
+  "summary": "Sabai Tayo 是一家位於曼谷的咖啡廳，提供美味的菲律賓料理和手沖咖啡，非常適合約會時享受悠閒的時光。這裡環境優美，讓人能夠在藝術和自然中放鬆心情。"
+}

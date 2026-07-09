@@ -1,0 +1,23 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "DahiSeyG-KG",
+  "postUrl": "https://www.instagram.com/p/DahiSeyG-KG/",
+  "timestamp": "2026-07-08T07:45:30.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/timeoutbangkok/DahiSeyG-KG/image_1.jpg",
+    "data/timeoutbangkok/DahiSeyG-KG/image_2.jpg",
+    "data/timeoutbangkok/DahiSeyG-KG/image_3.jpg",
+    "data/timeoutbangkok/DahiSeyG-KG/image_4.jpg",
+    "data/timeoutbangkok/DahiSeyG-KG/image_5.jpg"
+  ],
+  "place": "曼谷",
+  "vibe_tags": [
+    "熱鬧",
+    "運動"
+  ],
+  "date_score": 7,
+  "end_date": null,
+  "summary": "這篇貼文介紹了在曼谷觀看世界盃足球賽的地點和資訊。活動在七月舉行，非常適合喜愛運動的情侶約會。"
+}

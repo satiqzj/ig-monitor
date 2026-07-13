@@ -1,0 +1,20 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DasVz7nyjPv",
+  "postUrl": "https://www.instagram.com/p/DasVz7nyjPv/",
+  "timestamp": "2026-07-12T12:29:31.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DasVz7nyjPv/image_1.jpg"
+  ],
+  "place": "希爾頓曼谷大阿索克酒店",
+  "vibe_tags": [
+    "浪漫",
+    "靜謐",
+    "旅遊"
+  ],
+  "date_score": 8,
+  "end_date": null,
+  "summary": "這是位於曼谷的希爾頓酒店，擁有令人驚艷的中庭設計，宛如視覺錯覺，實際上更為壯觀。適合情侶或朋友在曼谷旅遊時入住，享受舒適的住宿體驗。"
+}

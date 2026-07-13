@@ -1,0 +1,19 @@
+{
+  "handle": "richie.got.you",
+  "category": "旅遊",
+  "shortCode": "DascOwazYbB",
+  "postUrl": "https://www.instagram.com/p/DascOwazYbB/",
+  "timestamp": "2026-07-12T13:24:48.000Z",
+  "type": "Video",
+  "images": [
+    "data/richie_got_you/DascOwazYbB/image_1.jpg"
+  ],
+  "place": "曼谷",
+  "vibe_tags": [
+    "熱鬧",
+    "旅遊"
+  ],
+  "date_score": 6,
+  "end_date": null,
+  "summary": "這是一個關於曼谷的貼文，提到著名的火車站 SIAM。這裡是曼谷的熱鬧地區，適合喜歡探索城市的約會對象。"
+}

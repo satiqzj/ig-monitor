@@ -1,5 +1,22 @@
 [
   {
+    "handle": "aj_some_more",
+    "category": "旅遊",
+    "place": "曼谷屋頂私人餐廳",
+    "vibe_tags": [
+      "浪漫",
+      "靜謐",
+      "獨特"
+    ],
+    "date_score": 9,
+    "end_date": null,
+    "summary": "這是一個曼谷的屋頂私人餐廳，提供難忘的景觀和獨特的用餐體驗。非常適合約會，特別是浪漫的夜晚。",
+    "caption": "I almost didn’t share this place because I know it’s going to get popular. 🤫🇹🇭 One rooftop. One private dining dome. One unforgettable view. 🌇✨ Comment “Lacol Bangkok” and I’ll send you the locati",
+    "image": "data/aj_some_more/DavKmVUy5-K/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DavKmVUy5-K/",
+    "timestamp": "2026-07-13T14:50:42.000Z"
+  },
+  {
     "handle": "bangkok_insiders",
     "category": "展覽",
     "place": "曼谷",
@@ -959,22 +976,5 @@
     "image": "data/lifestyleasiath/DaZu2a4nAEM/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DaZu2a4nAEM/",
     "timestamp": "2026-07-05T07:01:23.000Z"
-  },
-  {
-    "handle": "timeoutbangkok",
-    "category": "市集",
-    "place": "曼谷文學酒吧",
-    "vibe_tags": [
-      "文青",
-      "浪漫",
-      "熱鬧"
-    ],
-    "date_score": 8,
-    "end_date": null,
-    "summary": "這篇貼文介紹了八間受作家啟發的酒吧，結合了書籍、酒精和氛圍，適合喜愛文學的約會對象。這些酒吧各具特色，從裝潢到音樂都能感受到文學的氛圍，非常適合約會。",
-    "caption": "Some nights, a drink is the key that unlocks the story. Writers have long known their way around a bar, and Bangkok has plenty of places where books, booze and atmosphere meet beautifully 🥃𓂃🪶 Here ",
-    "image": "data/timeoutbangkok/DaZlkNgk8es/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DaZlkNgk8es/",
-    "timestamp": "2026-07-05T05:40:13.000Z"
   }
 ]

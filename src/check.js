@@ -19,7 +19,7 @@ const DIGESTS = path.join(ROOT, "digests");
 const STATE_FILE = path.join(ROOT, "state.json");
 const ACCOUNTS_FILE = path.join(ROOT, "accounts.json");
 
-const PER_ACCOUNT = 12;          // 每次每帳號抓最近幾則來比對
+const PER_ACCOUNT = 6;           // 每次每帳號抓最近幾則來比對（降低 Apify 用量，控制在免費額度內）
 const MAX_NEW_PER_ACCOUNT = 5;   // 每次每帳號最多「處理」幾則新貼文；其餘只標記為已看，避免首次跑爆量
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));

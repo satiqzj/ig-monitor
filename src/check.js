@@ -138,4 +138,14 @@ async function main() {
   }
 }
 
-main().catch(e => { console.error("執行失敗：", e.message); process.exit(1); });
+main().catch(e => {
+  const msg = e && e.message ? e.message : String(e);
+  // Apify 免費額度用完不是程式錯誤 → 乾淨略過（exit 0），避免每天在 Actions 顯示紅色失敗；
+  // 額度每月重置後會自動恢復。
+  if (/platform-feature-disabled|usage hard limit|monthly usage/i.test(msg)) {
+    console.log("⏭ Apify 額度已用完，這次乾淨略過（額度每月重置後自動恢復）。訊息：" + msg);
+    process.exit(0);
+  }
+  console.error("執行失敗：", msg);
+  process.exit(1);
+});

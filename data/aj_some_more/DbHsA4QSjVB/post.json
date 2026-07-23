@@ -1,0 +1,20 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DbHsA4QSjVB",
+  "postUrl": "https://www.instagram.com/p/DbHsA4QSjVB/",
+  "timestamp": "2026-07-23T03:24:25.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DbHsA4QSjVB/image_1.jpg"
+  ],
+  "place": "Nara Thai Cuisine ICONSIAM",
+  "vibe_tags": [
+    "浪漫",
+    "熱鬧",
+    "文化"
+  ],
+  "date_score": 8,
+  "end_date": null,
+  "summary": "這是一個位於曼谷的獨特晚餐體驗，提供正宗泰國料理和壯觀的湄南河全景。每週一、三和五有現場文化表演，非常適合約會。"
+}

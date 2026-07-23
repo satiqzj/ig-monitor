@@ -1,0 +1,19 @@
+{
+  "handle": "richie.got.you",
+  "category": "旅遊",
+  "shortCode": "Da-ceJBTbDF",
+  "postUrl": "https://www.instagram.com/p/Da-ceJBTbDF/",
+  "timestamp": "2026-07-19T13:14:04.000Z",
+  "type": "Video",
+  "images": [
+    "data/richie_got_you/Da-ceJBTbDF/image_1.jpg"
+  ],
+  "place": "曼谷咖啡廳",
+  "vibe_tags": [
+    "文青",
+    "靜謐"
+  ],
+  "date_score": 6,
+  "end_date": null,
+  "summary": "這是一家位於曼谷的咖啡廳，適合喜歡安靜氛圍的人。雖然沒有特別的描述，但咖啡廳通常是約會的好選擇。"
+}

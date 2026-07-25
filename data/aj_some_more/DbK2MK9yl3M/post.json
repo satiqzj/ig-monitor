@@ -1,0 +1,19 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DbK2MK9yl3M",
+  "postUrl": "https://www.instagram.com/p/DbK2MK9yl3M/",
+  "timestamp": "2026-07-24T08:48:47.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DbK2MK9yl3M/image_1.jpg"
+  ],
+  "place": "曼谷",
+  "vibe_tags": [
+    "幽默",
+    "旅遊"
+  ],
+  "date_score": 5,
+  "end_date": null,
+  "summary": "這則貼文分享了一個幽默的旅行瞬間，提到在曼谷的冒險。雖然沒有具體的約會地點，但提到的旅行情境適合喜歡輕鬆幽默的約會。"
+}

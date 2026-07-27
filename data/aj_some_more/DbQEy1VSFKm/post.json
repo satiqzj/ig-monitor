@@ -1,0 +1,20 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DbQEy1VSFKm",
+  "postUrl": "https://www.instagram.com/p/DbQEy1VSFKm/",
+  "timestamp": "2026-07-26T09:35:38.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DbQEy1VSFKm/image_1.jpg"
+  ],
+  "place": "曼谷夜市",
+  "vibe_tags": [
+    "熱鬧",
+    "美食",
+    "購物"
+  ],
+  "date_score": 8,
+  "end_date": null,
+  "summary": "這是一個充滿活力的曼谷夜市，提供美食、購物和現場音樂，擁有超過250個攤位。非常適合約會，特別是喜歡熱鬧氛圍的情侶。"
+}

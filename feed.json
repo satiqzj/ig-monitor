@@ -1,5 +1,104 @@
 [
   {
+    "handle": "aj_some_more",
+    "category": "旅遊",
+    "place": "白金購物中心",
+    "vibe_tags": [
+      "熱鬧",
+      "購物"
+    ],
+    "date_score": 6,
+    "end_date": null,
+    "summary": "這是一則關於在曼谷白金購物中心的最後購物經歷的貼文。這裡是個熱鬧的購物地點，適合喜歡購物的情侶。雖然這裡有很多商品，但不一定是約會的最佳選擇。",
+    "caption": "POV: It’s your last day in Bangkok and suddenly you remember all the things you “forgot” to buy. 😂🛍️🇹🇭 One last shopping spree at Platinum before leaving Bangkok. Who else does their shopping at t",
+    "image": "data/aj_some_more/DbUln9PyPtY/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DbUln9PyPtY/",
+    "timestamp": "2026-07-28T03:36:33.000Z"
+  },
+  {
+    "handle": "lifestyleasiath",
+    "category": "旅遊",
+    "place": "泰國餐廳",
+    "vibe_tags": [
+      "美食",
+      "文化"
+    ],
+    "date_score": 6,
+    "end_date": null,
+    "summary": "這篇貼文探討了泰國食物文化，特別是生魚和發酵魚的歷史與演變。雖然沒有具體的餐廳名稱，但適合喜愛泰國美食的約會對象。",
+    "caption": "Thai food culture has survived and evolved around raw and fermented fish for centuries, and the shift happening now isn't about abandoning tradition. So go ahead, order the som tam. Just stay informed",
+    "image": "data/lifestyleasiath/DbUhqIPHBzW/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DbUhqIPHBzW/",
+    "timestamp": "2026-07-28T03:01:18.000Z"
+  },
+  {
+    "handle": "jiranarong2",
+    "category": "展覽",
+    "place": "市場",
+    "vibe_tags": [
+      "文青",
+      "熱鬧",
+      "美食"
+    ],
+    "date_score": 7,
+    "end_date": null,
+    "summary": "這篇貼文提到在泰國的市場可以找到傳統的甜點——馬卡龍，特別是用大盤子製作的版本。這裡的氛圍熱鬧，適合約會時一起享受美食的樂趣。",
+    "caption": "เคยได้ยินคนทำขนมหม้อแกงบอกว่า ทำแบบถาดใหญ่ๆ แล้วตัก อร่อยกว่าทำแบบถาดเล็กๆ ผมจำคำตอบที่ชัดเจนไม่ได้ แต่คิดว่ามันน่าจะเรื่องการที่ถาดใหญ่กว่ามันจะสุกถึงตรงกลางมันต้องค่อยๆ ให้ความร้อน ค่อยๆ รุมถ่านไปเร",
+    "image": "data/jiranarong2/DbTYmc_k9TI/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DbTYmc_k9TI/",
+    "timestamp": "2026-07-27T16:22:52.000Z"
+  },
+  {
+    "handle": "aj_some_more",
+    "category": "旅遊",
+    "place": "鄭王廟",
+    "vibe_tags": [
+      "浪漫",
+      "靜謐",
+      "戶外"
+    ],
+    "date_score": 9,
+    "end_date": null,
+    "summary": "鄭王廟是曼谷著名的景點，特別適合在日落時分前來欣賞。建議在黃金時刻之前抵達，既可以探索周圍，也能享受美麗的日落景色，非常適合約會。",
+    "caption": "One of the most magical times to see Wat Arun 🇹🇭✨ Come before sunset and watch the Temple of Dawn glow as the sky changes. Definitely one of those Bangkok moments you need to experience at least onc",
+    "image": "data/aj_some_more/DbSkYDAyJpN/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DbSkYDAyJpN/",
+    "timestamp": "2026-07-27T08:49:00.000Z"
+  },
+  {
+    "handle": "timeoutbangkok",
+    "category": "市集",
+    "place": "Sphere Hall at EmSphere",
+    "vibe_tags": [
+      "熱鬧",
+      "音樂",
+      "活動"
+    ],
+    "date_score": 8,
+    "end_date": null,
+    "summary": "這是一場由英國 R&B 三人組 @flolikethis 帶來的音樂會，將於 8 月 29 日在 Sphere Hall 舉行。票價從 B2,800 起，適合喜愛音樂的約會對象。",
+    "caption": "Bangkok, this is not a drill: @flolikethis are finally coming our way. ✨ The Grammy-nominated British R&B trio bring their Therapy At The Club tour to Sphere Hall at EmSphere on August 29. Fan club pr",
+    "image": "data/timeoutbangkok/DbSYQ95G_b5/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DbSYQ95G_b5/",
+    "timestamp": "2026-07-27T07:00:46.000Z"
+  },
+  {
+    "handle": "timeoutbangkok",
+    "category": "市集",
+    "place": "曼谷美食市集",
+    "vibe_tags": [
+      "熱鬧",
+      "文青"
+    ],
+    "date_score": 7,
+    "end_date": null,
+    "summary": "這是一個在曼谷舉辦的美食市集，適合喜歡探索新口味的約會對象。市集氛圍熱鬧，適合與朋友或伴侶一起享受美食。具體的時間和地點未提及。",
+    "caption": "How many can you claim? Spill exactly where… we're not doing this good-eats hunt alone! #TimeOutBangkok",
+    "image": "data/timeoutbangkok/DbSKiZDgT4R/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DbSKiZDgT4R/",
+    "timestamp": "2026-07-27T05:00:45.000Z"
+  },
+  {
     "handle": "lifestyleasiath",
     "category": "旅遊",
     "place": "曼谷巧克力焦糖蛋糕",
@@ -878,106 +977,5 @@
     "image": "data/richie_got_you/DascOwazYbB/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DascOwazYbB/",
     "timestamp": "2026-07-12T13:24:48.000Z"
-  },
-  {
-    "handle": "aj_some_more",
-    "category": "旅遊",
-    "place": "希爾頓曼谷大阿索克酒店",
-    "vibe_tags": [
-      "浪漫",
-      "靜謐",
-      "旅遊"
-    ],
-    "date_score": 8,
-    "end_date": null,
-    "summary": "這是位於曼谷的希爾頓酒店，擁有令人驚艷的中庭設計，宛如視覺錯覺，實際上更為壯觀。適合情侶或朋友在曼谷旅遊時入住，享受舒適的住宿體驗。",
-    "caption": "I honestly wasn’t expecting this! 🤯🇹🇭 This hotel in Bangkok has one of the coolest atriums I’ve ever seen. It almost looks like an optical illusion and it’s even more impressive in person. 😍 🏨 Hi",
-    "image": "data/aj_some_more/DasVz7nyjPv/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DasVz7nyjPv/",
-    "timestamp": "2026-07-12T12:29:31.000Z"
-  },
-  {
-    "handle": "timeoutbangkok",
-    "category": "市集",
-    "place": "曼谷",
-    "vibe_tags": [
-      "文青",
-      "浪漫",
-      "熱鬧"
-    ],
-    "date_score": 8,
-    "end_date": null,
-    "summary": "這篇貼文表達了對曼谷的熱愛，適合喜歡城市風景和文青氛圍的約會對象。曼谷的獨特魅力和活力使其成為約會的好去處。",
-    "caption": "@travisleon1, the 35-year-old Donegal-born creator, has spent five years in Bangkok, racking up over 500,000 followers across YouTube, TikTok and Instagram who tune in for that slow, upward gaze of aw",
-    "image": "data/timeoutbangkok/DarjDIfkwx6/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DarjDIfkwx6/",
-    "timestamp": "2026-07-12T05:04:33.000Z"
-  },
-  {
-    "handle": "timeoutbangkok",
-    "category": "市集",
-    "place": "Lumphini Hall",
-    "vibe_tags": [
-      "熱鬧",
-      "浪漫",
-      "舞蹈"
-    ],
-    "date_score": 8,
-    "end_date": null,
-    "summary": "這是一個在Lumphini Hall舉辦的舞會，時間是7月26日下午5點。活動需要提前報名，適合喜歡舞蹈的情侶參加。",
-    "caption": "Bangkok Ballroom Dance wants you in your best shoes, your finest frock and out on that floor where the old standards still hold court 🎷👞 It all unfolds at Lumphini Hall on Sunday, July 26, from 5pm.",
-    "image": "data/timeoutbangkok/DarXR0ym2EV/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DarXR0ym2EV/",
-    "timestamp": "2026-07-12T03:21:42.000Z"
-  },
-  {
-    "handle": "lifestyleasiath",
-    "category": "旅遊",
-    "place": "時尚與生活展",
-    "vibe_tags": [
-      "時尚",
-      "熱鬧"
-    ],
-    "date_score": 6,
-    "end_date": null,
-    "summary": "這是一個以時尚和生活為主題的展覽，展出最新的時尚合作和創意產品。適合對時尚感興趣的約會對象，能夠一起享受熱鬧的氛圍。",
-    "caption": "From the cool fashion collabs to alien Lego sets, here are our #WeeklyObsessions this week. #FallWinter #Fashion #Beauty #LifestyleAsia #LifestyleAsiaTH",
-    "image": "data/lifestyleasiath/DarU6xhHIa4/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DarU6xhHIa4/",
-    "timestamp": "2026-07-12T03:01:08.000Z"
-  },
-  {
-    "handle": "richie_got_you",
-    "category": "旅遊",
-    "place": "Aura Bangkok Clinic",
-    "vibe_tags": [
-      "文青",
-      "浪漫",
-      "靜謐"
-    ],
-    "date_score": 8,
-    "end_date": null,
-    "summary": "Aura Bangkok Clinic 是位於暹羅廣場的一家美容診所，非常適合約會時享受自我保養的時光。這裡提供舒適的環境和專業的服務，讓你放鬆心情。",
-    "caption": "Thinking about a beauty day in Bangkok? ✨Save Aura Bangkok for your next self-care stop. 📍Aura Bangkok Clinic | Siam Square One 🚊BTS Siam #AuraBangkok #bangkok #bangkokthailand #bangkoktravel",
-    "image": "data/richie_got_you/DapyOB1TBru/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DapyOB1TBru/",
-    "timestamp": "2026-07-11T12:41:17.000Z"
-  },
-  {
-    "handle": "jiranarong2",
-    "category": "展覽",
-    "place": "Wasteland 酒吧",
-    "vibe_tags": [
-      "文青",
-      "創意",
-      "熱鬧"
-    ],
-    "date_score": 8,
-    "end_date": null,
-    "summary": "Wasteland 是一家創意酒吧，專注於環保與有機食材的使用，提供獨特的飲品體驗。這裡的飲品使用了各種廢棄食材，適合喜歡新奇與環保的約會對象。",
-    "caption": "Wasteland เป็นบาร์ที่เจ๋งตรง เขามีวิธีจัดการกับขยะก่อนจะทิ้งเสมอ เปลือกผัก ผลไม้ ก้างปลา หัวกุ้ง แม้แต่รังต่อถูกจับมาเป็นเครื่องดื่มได้หมด แล้วเจ๋งสุดคือแทบทุกวัตถุดิบเป็นออร์แกนิก",
-    "image": "data/jiranarong2/Dappv4LTK8p/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/Dappv4LTK8p/",
-    "timestamp": "2026-07-11T11:35:14.000Z"
   }
 ]

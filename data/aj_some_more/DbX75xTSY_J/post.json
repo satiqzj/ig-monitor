@@ -1,0 +1,21 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DbX75xTSY_J",
+  "postUrl": "https://www.instagram.com/p/DbX75xTSY_J/",
+  "timestamp": "2026-07-29T10:51:16.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DbX75xTSY_J/image_1.jpg"
+  ],
+  "place": "泰國租車服務",
+  "vibe_tags": [
+    "旅遊",
+    "方便",
+    "家庭",
+    "友誼"
+  ],
+  "date_score": 7,
+  "end_date": null,
+  "summary": "這是一個泰國的租車服務，特別適合與朋友或家人一起旅行。租車包含了通行費和停車費，最多可使用12小時，非常方便。"
+}

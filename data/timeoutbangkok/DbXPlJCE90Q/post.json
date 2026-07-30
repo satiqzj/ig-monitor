@@ -1,0 +1,29 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "DbXPlJCE90Q",
+  "postUrl": "https://www.instagram.com/p/DbXPlJCE90Q/",
+  "timestamp": "2026-07-29T04:21:01.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/timeoutbangkok/DbXPlJCE90Q/image_1.jpg",
+    "data/timeoutbangkok/DbXPlJCE90Q/image_2.jpg",
+    "data/timeoutbangkok/DbXPlJCE90Q/image_3.jpg",
+    "data/timeoutbangkok/DbXPlJCE90Q/image_4.jpg",
+    "data/timeoutbangkok/DbXPlJCE90Q/image_5.jpg",
+    "data/timeoutbangkok/DbXPlJCE90Q/image_6.jpg",
+    "data/timeoutbangkok/DbXPlJCE90Q/image_7.jpg",
+    "data/timeoutbangkok/DbXPlJCE90Q/image_8.jpg",
+    "data/timeoutbangkok/DbXPlJCE90Q/image_9.jpg",
+    "data/timeoutbangkok/DbXPlJCE90Q/image_10.jpg"
+  ],
+  "place": "曼谷周末市集",
+  "vibe_tags": [
+    "熱鬧",
+    "戶外",
+    "文青"
+  ],
+  "date_score": 7,
+  "end_date": null,
+  "summary": "這是一個適合週末的市集，提供多樣的活動選擇，如畫廊巡禮和美食探索。非常適合約會時享受輕鬆的氛圍。"
+}

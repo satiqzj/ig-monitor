@@ -1,7 +1,7 @@
 {
   "I.onbangkok": {
     "seen": [],
-    "lastRun": "2026-08-15T02:14:00.044Z"
+    "lastRun": "2026-08-16T02:21:59.621Z"
   },
   "bangkok_insiders": {
     "seen": [
@@ -19,7 +19,7 @@
       "DbdHbJchglV",
       "DbhIA-lGLwz"
     ],
-    "lastRun": "2026-08-15T02:14:00.044Z"
+    "lastRun": "2026-08-16T02:21:59.622Z"
   },
   "jiranarong2": {
     "seen": [
@@ -64,9 +64,11 @@
       "Db5hPrZkx0U",
       "Db8AOSOTZAi",
       "Db7PJ2SEw06",
-      "DcASnmPEz6C"
+      "DcASnmPEz6C",
+      "DcFIFClzLOy",
+      "DcEBBz4E7Pr"
     ],
-    "lastRun": "2026-08-15T02:14:00.052Z"
+    "lastRun": "2026-08-16T02:22:07.077Z"
   },
   "richie.got.you": {
     "seen": [
@@ -108,9 +110,10 @@
       "Db5kHjvTXxh",
       "Db7WdP3zHCb",
       "Db-yA5lzT2z",
-      "DcAxvD1TGru"
+      "DcAxvD1TGru",
+      "DcD32aszr8a"
     ],
-    "lastRun": "2026-08-15T02:14:02.047Z"
+    "lastRun": "2026-08-16T02:22:09.073Z"
   },
   "lifestyleasiath": {
     "seen": [
@@ -250,9 +253,10 @@
       "DcAMQkeE269",
       "Db-J7COE61k",
       "DcBDbRfFoGf",
-      "DcAnp4TyriQ"
+      "DcAnp4TyriQ",
+      "DcDDvkTE-02"
     ],
-    "lastRun": "2026-08-15T02:14:07.402Z"
+    "lastRun": "2026-08-16T02:22:16.712Z"
   },
   "aj.some.more": {
     "seen": [
@@ -314,9 +318,10 @@
       "Db5bwkfyL1x",
       "Db-sgbySFiv",
       "Db9xjuYSwlD",
-      "DcBCoEGycq7"
+      "DcBCoEGycq7",
+      "DcDEmP6SIFH"
     ],
-    "lastRun": "2026-08-15T02:14:15.157Z"
+    "lastRun": "2026-08-16T02:22:18.625Z"
   },
   "timeoutbangkok": {
     "seen": [
@@ -482,9 +487,12 @@
       "Db98F3vDB5F",
       "DcBRbVlm6m6",
       "DcBJDZmG6WW",
-      "DcA-mmfmwYY"
+      "DcA-mmfmwYY",
+      "DcDj9N9mPQB",
+      "DcDNh6Wmyu8",
+      "DcDAEbLmz9g"
     ],
-    "lastRun": "2026-08-15T02:14:22.098Z"
+    "lastRun": "2026-08-16T02:22:27.477Z"
   },
   "goplaybangkok": {
     "seen": [
@@ -517,6 +525,6 @@
       "Db-aE4nSMhD",
       "DcA_qmkEnFE"
     ],
-    "lastRun": "2026-08-15T02:14:13.694Z"
+    "lastRun": "2026-08-16T02:22:16.712Z"
   }
 }

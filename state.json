@@ -1,7 +1,7 @@
 {
   "I.onbangkok": {
     "seen": [],
-    "lastRun": "2026-08-22T02:16:24.645Z"
+    "lastRun": "2026-08-23T02:23:50.832Z"
   },
   "bangkok_insiders": {
     "seen": [
@@ -22,7 +22,7 @@
       "DcK2wSPMooz",
       "DcSdv9RNGX6"
     ],
-    "lastRun": "2026-08-22T02:16:26.835Z"
+    "lastRun": "2026-08-23T02:23:50.832Z"
   },
   "jiranarong2": {
     "seen": [
@@ -74,9 +74,11 @@
       "DcJTo6az6y2",
       "DcNEER0EwV2",
       "DcPeo9CkxNZ",
-      "DcRE9msE_cu"
+      "DcRE9msE_cu",
+      "DcWMc95E9eE",
+      "DcVdvgyE0Vu"
     ],
-    "lastRun": "2026-08-22T02:16:26.842Z"
+    "lastRun": "2026-08-23T02:24:08.355Z"
   },
   "richie.got.you": {
     "seen": [
@@ -122,9 +124,10 @@
       "DcD32aszr8a",
       "DcFdGRszhPl",
       "DcJFqWETk4t",
-      "DcQW09gzksr"
+      "DcQW09gzksr",
+      "DcU5zPVTK2U"
     ],
-    "lastRun": "2026-08-22T02:16:26.842Z"
+    "lastRun": "2026-08-23T02:24:10.560Z"
   },
   "lifestyleasiath": {
     "seen": [
@@ -271,9 +274,11 @@
       "DcIq7KcDTLR",
       "DcPpHVQFcS7",
       "DcNmwL5DeLT",
-      "DcNaqllEyHC"
+      "DcNaqllEyHC",
+      "DcVVDW3FM9T",
+      "DcU5l9DlY8l"
     ],
-    "lastRun": "2026-08-22T02:16:26.842Z"
+    "lastRun": "2026-08-23T02:24:20.778Z"
   },
   "aj.some.more": {
     "seen": [
@@ -342,9 +347,10 @@
       "DcKn8oDSFT4",
       "DcNM7SdSrzu",
       "DcSOG7aS-Vi",
-      "DcPz5cdSV7G"
+      "DcPz5cdSV7G",
+      "DcU_NtJy9Q8"
     ],
-    "lastRun": "2026-08-22T02:16:29.296Z"
+    "lastRun": "2026-08-23T02:24:23.565Z"
   },
   "timeoutbangkok": {
     "seen": [
@@ -531,9 +537,12 @@
       "DcQScDHkxO0",
       "DcS_mxZk9eX",
       "DcSyQGYm8j-",
-      "DcSjCTNAfWB"
+      "DcSjCTNAfWB",
+      "DcVo7M8Gwsy",
+      "DcVZ7eJm_Sf",
+      "DcVIpO9k5Hg"
     ],
-    "lastRun": "2026-08-22T02:16:38.743Z"
+    "lastRun": "2026-08-23T02:24:33.494Z"
   },
   "goplaybangkok": {
     "seen": [
@@ -569,6 +578,6 @@
       "DcQ0gF9S8tB",
       "DcTARtTyJPu"
     ],
-    "lastRun": "2026-08-22T02:16:29.296Z"
+    "lastRun": "2026-08-23T02:24:20.778Z"
   }
 }

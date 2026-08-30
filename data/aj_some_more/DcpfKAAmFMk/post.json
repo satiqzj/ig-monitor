@@ -1,0 +1,20 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DcpfKAAmFMk",
+  "postUrl": "https://www.instagram.com/p/DcpfKAAmFMk/",
+  "timestamp": "2026-08-30T02:54:50.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/aj_some_more/DcpfKAAmFMk/image_1.jpg",
+    "data/aj_some_more/DcpfKAAmFMk/image_2.jpg",
+    "data/aj_some_more/DcpfKAAmFMk/image_3.jpg",
+    "data/aj_some_more/DcpfKAAmFMk/image_4.jpg",
+    "data/aj_some_more/DcpfKAAmFMk/image_5.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：GitHub Models is temporarily unavailable as part of a scheduled retirement brownout.）"
+}

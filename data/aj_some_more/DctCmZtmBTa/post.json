@@ -1,0 +1,22 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DctCmZtmBTa",
+  "postUrl": "https://www.instagram.com/p/DctCmZtmBTa/",
+  "timestamp": "2026-08-31T12:02:16.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/aj_some_more/DctCmZtmBTa/image_1.jpg",
+    "data/aj_some_more/DctCmZtmBTa/image_2.jpg",
+    "data/aj_some_more/DctCmZtmBTa/image_3.jpg",
+    "data/aj_some_more/DctCmZtmBTa/image_4.jpg",
+    "data/aj_some_more/DctCmZtmBTa/image_5.jpg",
+    "data/aj_some_more/DctCmZtmBTa/image_6.jpg",
+    "data/aj_some_more/DctCmZtmBTa/image_7.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：GitHub Models is temporarily unavailable as part of a scheduled retirement brownout.）"
+}

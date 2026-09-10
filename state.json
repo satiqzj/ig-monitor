@@ -1,7 +1,7 @@
 {
   "I.onbangkok": {
     "seen": [],
-    "lastRun": "2026-09-09T05:46:01.355Z"
+    "lastRun": "2026-09-10T05:39:57.221Z"
   },
   "bangkok_insiders": {
     "seen": [
@@ -27,9 +27,10 @@
       "Dc2908OMsYA",
       "DdDQWQIuEil",
       "DdC40NgTT80",
-      "DdB6tzyPl-n"
+      "DdB6tzyPl-n",
+      "DdF9xgaxWVa"
     ],
-    "lastRun": "2026-09-09T05:46:08.460Z"
+    "lastRun": "2026-09-10T05:39:59.019Z"
   },
   "jiranarong2": {
     "seen": [
@@ -102,9 +103,11 @@
       "Dc3iAMEzTJK",
       "Dc6K3L9k6JM",
       "Dc8CysokxT8",
-      "DdC_SPOkx2t"
+      "DdC_SPOkx2t",
+      "DdFhoGlE1fC",
+      "DdEDateE-hg"
     ],
-    "lastRun": "2026-09-09T05:46:14.942Z"
+    "lastRun": "2026-09-10T05:40:15.941Z"
   },
   "richie.got.you": {
     "seen": [
@@ -160,9 +163,10 @@
       "DcqgNXvGVLs",
       "DcvX-P6Thmd",
       "DcyNF7_zuLl",
-      "Dc06wK9zTN1"
+      "Dc06wK9zTN1",
+      "DdEZHwXTa0T"
     ],
-    "lastRun": "2026-09-09T05:46:14.943Z"
+    "lastRun": "2026-09-10T05:40:18.002Z"
   },
   "lifestyleasiath": {
     "seen": [
@@ -346,9 +350,12 @@
       "Dc-2qMkzn6v",
       "DdDW4xDk0-i",
       "DdDI5KSk-Ex",
-      "DdBbItEDOS_"
+      "DdBbItEDOS_",
+      "DdF2IGajGdm",
+      "DdE7mQekyDQ",
+      "DdD2HcRk50F"
     ],
-    "lastRun": "2026-09-09T05:46:24.582Z"
+    "lastRun": "2026-09-10T05:40:36.298Z"
   },
   "aj.some.more": {
     "seen": [
@@ -437,9 +444,10 @@
       "Dc4_ptsGIUB",
       "Dc7mxP_CbBM",
       "DdAtJx3ydYX",
-      "Dc-ugkVy0Iw"
+      "Dc-ugkVy0Iw",
+      "DdDuVfjsW_S"
     ],
-    "lastRun": "2026-09-09T05:46:26.886Z"
+    "lastRun": "2026-09-10T05:40:38.388Z"
   },
   "timeoutbangkok": {
     "seen": [
@@ -687,9 +695,12 @@
       "Dc5ncfIGEAN",
       "DdDco-7DAkC",
       "DdDP6UpGLm9",
-      "DdBljfsk6fq"
+      "DdBljfsk6fq",
+      "DdGFroPj9KA",
+      "DdFz7-cj4O0",
+      "DdD64SFmK3P"
     ],
-    "lastRun": "2026-09-09T05:46:40.060Z"
+    "lastRun": "2026-09-10T05:40:45.567Z"
   },
   "goplaybangkok": {
     "seen": [
@@ -732,6 +743,6 @@
       "Dc3C1-qksb0",
       "DdBvraKSi_o"
     ],
-    "lastRun": "2026-09-09T05:46:26.886Z"
+    "lastRun": "2026-09-10T05:40:36.299Z"
   }
 }

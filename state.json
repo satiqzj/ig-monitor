@@ -1,7 +1,7 @@
 {
   "I.onbangkok": {
     "seen": [],
-    "lastRun": "2026-09-12T05:27:12.669Z"
+    "lastRun": "2026-09-13T05:43:16.198Z"
   },
   "bangkok_insiders": {
     "seen": [
@@ -30,9 +30,10 @@
       "DdB6tzyPl-n",
       "DdF9xgaxWVa",
       "DdGl7SxgTu_",
-      "DdJz0rpB0UM"
+      "DdJz0rpB0UM",
+      "DdMLqa-NjJQ"
     ],
-    "lastRun": "2026-09-12T05:27:14.979Z"
+    "lastRun": "2026-09-13T05:43:19.047Z"
   },
   "jiranarong2": {
     "seen": [
@@ -110,9 +111,12 @@
       "DdEDateE-hg",
       "DdK90tnE_JZ",
       "DdJoL25k0qJ",
-      "DdJOku_TST6"
+      "DdJOku_TST6",
+      "DdNexdLk3RC",
+      "DdLullkE5A1",
+      "DdLUQTczXn8"
     ],
-    "lastRun": "2026-09-12T05:27:33.579Z"
+    "lastRun": "2026-09-13T05:43:44.286Z"
   },
   "richie.got.you": {
     "seen": [
@@ -170,9 +174,11 @@
       "DcyNF7_zuLl",
       "Dc06wK9zTN1",
       "DdEZHwXTa0T",
-      "DdJkXQfzmRC"
+      "DdJkXQfzmRC",
+      "DdNlhzyzQwL",
+      "DdLzF2jzwsV"
     ],
-    "lastRun": "2026-09-12T05:27:35.997Z"
+    "lastRun": "2026-09-13T05:43:48.950Z"
   },
   "lifestyleasiath": {
     "seen": [
@@ -362,9 +368,11 @@
       "DdD2HcRk50F",
       "DdIScSXDHIe",
       "DdK-Q9dDCKi",
-      "DdI1HBClonr"
+      "DdI1HBClonr",
+      "DdNi-P5jDoS",
+      "DdL1S47gdlp"
     ],
-    "lastRun": "2026-09-12T05:27:45.480Z"
+    "lastRun": "2026-09-13T05:43:58.367Z"
   },
   "aj.some.more": {
     "seen": [
@@ -456,9 +464,11 @@
       "Dc-ugkVy0Iw",
       "DdDuVfjsW_S",
       "DdIjSMrBguE",
-      "DdGx0lvgnH9"
+      "DdGx0lvgnH9",
+      "DdNjxu8hNzz",
+      "DdLO3JcGI9Q"
     ],
-    "lastRun": "2026-09-12T05:27:45.480Z"
+    "lastRun": "2026-09-13T05:44:06.894Z"
   },
   "timeoutbangkok": {
     "seen": [
@@ -716,9 +726,12 @@
       "DdGVNtSkzlV",
       "DdLMCx_D5-H",
       "DdK9uj_jzyQ",
-      "DdJYSKEj8xe"
+      "DdJYSKEj8xe",
+      "DdNoRIKE0UQ",
+      "DdL2vgCD4J0",
+      "DdLpLxlExKk"
     ],
-    "lastRun": "2026-09-12T05:27:57.726Z"
+    "lastRun": "2026-09-13T05:44:21.512Z"
   },
   "goplaybangkok": {
     "seen": [
@@ -762,6 +775,6 @@
       "DdBvraKSi_o",
       "DdGe7QLyI_s"
     ],
-    "lastRun": "2026-09-12T05:27:45.480Z"
+    "lastRun": "2026-09-13T05:43:58.367Z"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "handle": "jiranarong2",
+  "category": "展覽",
+  "shortCode": "Ddl5MQPE75v",
+  "postUrl": "https://www.instagram.com/p/Ddl5MQPE75v/",
+  "timestamp": "2026-09-22T13:56:46.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/jiranarong2/Ddl5MQPE75v/image_1.jpg",
+    "data/jiranarong2/Ddl5MQPE75v/image_2.jpg",
+    "data/jiranarong2/Ddl5MQPE75v/image_3.jpg",
+    "data/jiranarong2/Ddl5MQPE75v/image_4.jpg",
+    "data/jiranarong2/Ddl5MQPE75v/image_5.jpg",
+    "data/jiranarong2/Ddl5MQPE75v/image_6.jpg",
+    "data/jiranarong2/Ddl5MQPE75v/image_7.jpg",
+    "data/jiranarong2/Ddl5MQPE75v/image_8.jpg",
+    "data/jiranarong2/Ddl5MQPE75v/image_9.jpg",
+    "data/jiranarong2/Ddl5MQPE75v/image_10.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

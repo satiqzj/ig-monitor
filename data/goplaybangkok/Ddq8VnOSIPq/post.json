@@ -1,0 +1,16 @@
+{
+  "handle": "goplaybangkok",
+  "category": "旅遊",
+  "shortCode": "Ddq8VnOSIPq",
+  "postUrl": "https://www.instagram.com/p/Ddq8VnOSIPq/",
+  "timestamp": "2026-09-24T13:00:13.000Z",
+  "type": "Video",
+  "images": [
+    "data/goplaybangkok/Ddq8VnOSIPq/image_1.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

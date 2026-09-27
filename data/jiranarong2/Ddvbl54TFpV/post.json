@@ -1,0 +1,16 @@
+{
+  "handle": "jiranarong2",
+  "category": "展覽",
+  "shortCode": "Ddvbl54TFpV",
+  "postUrl": "https://www.instagram.com/p/Ddvbl54TFpV/",
+  "timestamp": "2026-09-26T06:51:10.000Z",
+  "type": "Image",
+  "images": [
+    "data/jiranarong2/Ddvbl54TFpV/image_1.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

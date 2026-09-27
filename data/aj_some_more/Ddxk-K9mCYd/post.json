@@ -1,0 +1,23 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "Ddxk-K9mCYd",
+  "postUrl": "https://www.instagram.com/p/Ddxk-K9mCYd/",
+  "timestamp": "2026-09-27T02:50:58.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/aj_some_more/Ddxk-K9mCYd/image_1.jpg",
+    "data/aj_some_more/Ddxk-K9mCYd/image_2.jpg",
+    "data/aj_some_more/Ddxk-K9mCYd/image_3.jpg",
+    "data/aj_some_more/Ddxk-K9mCYd/image_4.jpg",
+    "data/aj_some_more/Ddxk-K9mCYd/image_5.jpg",
+    "data/aj_some_more/Ddxk-K9mCYd/image_6.jpg",
+    "data/aj_some_more/Ddxk-K9mCYd/image_7.jpg",
+    "data/aj_some_more/Ddxk-K9mCYd/image_8.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

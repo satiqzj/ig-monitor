@@ -1,0 +1,17 @@
+{
+  "handle": "lifestyleasiath",
+  "category": "旅遊",
+  "shortCode": "Dd0Rwfhlutf",
+  "postUrl": "https://www.instagram.com/p/Dd0Rwfhlutf/",
+  "timestamp": "2026-09-28T04:00:52.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/lifestyleasiath/Dd0Rwfhlutf/image_1.jpg",
+    "data/lifestyleasiath/Dd0Rwfhlutf/image_2.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

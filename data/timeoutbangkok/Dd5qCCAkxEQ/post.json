@@ -1,0 +1,17 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "Dd5qCCAkxEQ",
+  "postUrl": "https://www.instagram.com/p/Dd5qCCAkxEQ/",
+  "timestamp": "2026-09-30T06:09:07.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/timeoutbangkok/Dd5qCCAkxEQ/image_1.jpg",
+    "data/timeoutbangkok/Dd5qCCAkxEQ/image_2.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

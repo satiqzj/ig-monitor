@@ -1,0 +1,20 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "Dd6Gdi-khmH",
+  "postUrl": "https://www.instagram.com/p/Dd6Gdi-khmH/",
+  "timestamp": "2026-09-30T10:17:32.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/timeoutbangkok/Dd6Gdi-khmH/image_1.jpg",
+    "data/timeoutbangkok/Dd6Gdi-khmH/image_2.jpg",
+    "data/timeoutbangkok/Dd6Gdi-khmH/image_3.jpg",
+    "data/timeoutbangkok/Dd6Gdi-khmH/image_4.jpg",
+    "data/timeoutbangkok/Dd6Gdi-khmH/image_5.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

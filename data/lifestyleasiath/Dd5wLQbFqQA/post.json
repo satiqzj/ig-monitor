@@ -1,0 +1,19 @@
+{
+  "handle": "lifestyleasiath",
+  "category": "旅遊",
+  "shortCode": "Dd5wLQbFqQA",
+  "postUrl": "https://www.instagram.com/p/Dd5wLQbFqQA/",
+  "timestamp": "2026-09-30T07:02:52.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/lifestyleasiath/Dd5wLQbFqQA/image_1.jpg",
+    "data/lifestyleasiath/Dd5wLQbFqQA/image_2.jpg",
+    "data/lifestyleasiath/Dd5wLQbFqQA/image_3.jpg",
+    "data/lifestyleasiath/Dd5wLQbFqQA/image_4.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

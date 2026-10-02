@@ -1,0 +1,22 @@
+{
+  "handle": "goplaybangkok",
+  "category": "旅遊",
+  "shortCode": "Dd8979AEy5s",
+  "postUrl": "https://www.instagram.com/p/Dd8979AEy5s/",
+  "timestamp": "2026-10-01T13:00:03.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/goplaybangkok/Dd8979AEy5s/image_1.jpg",
+    "data/goplaybangkok/Dd8979AEy5s/image_2.jpg",
+    "data/goplaybangkok/Dd8979AEy5s/image_3.jpg",
+    "data/goplaybangkok/Dd8979AEy5s/image_4.jpg",
+    "data/goplaybangkok/Dd8979AEy5s/image_5.jpg",
+    "data/goplaybangkok/Dd8979AEy5s/image_6.jpg",
+    "data/goplaybangkok/Dd8979AEy5s/image_7.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

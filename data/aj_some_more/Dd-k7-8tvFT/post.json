@@ -1,0 +1,16 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "Dd-k7-8tvFT",
+  "postUrl": "https://www.instagram.com/p/Dd-k7-8tvFT/",
+  "timestamp": "2026-10-02T04:01:23.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/Dd-k7-8tvFT/image_1.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

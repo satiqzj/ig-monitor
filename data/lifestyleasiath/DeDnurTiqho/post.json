@@ -1,0 +1,24 @@
+{
+  "handle": "lifestyleasiath",
+  "category": "旅遊",
+  "shortCode": "DeDnurTiqho",
+  "postUrl": "https://www.instagram.com/p/DeDnurTiqho/",
+  "timestamp": "2026-10-04T03:01:31.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/lifestyleasiath/DeDnurTiqho/image_1.jpg",
+    "data/lifestyleasiath/DeDnurTiqho/image_2.jpg",
+    "data/lifestyleasiath/DeDnurTiqho/image_3.jpg",
+    "data/lifestyleasiath/DeDnurTiqho/image_4.jpg",
+    "data/lifestyleasiath/DeDnurTiqho/image_5.jpg",
+    "data/lifestyleasiath/DeDnurTiqho/image_6.jpg",
+    "data/lifestyleasiath/DeDnurTiqho/image_7.jpg",
+    "data/lifestyleasiath/DeDnurTiqho/image_8.jpg",
+    "data/lifestyleasiath/DeDnurTiqho/image_9.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

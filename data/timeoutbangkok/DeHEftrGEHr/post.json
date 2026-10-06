@@ -1,0 +1,21 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "DeHEftrGEHr",
+  "postUrl": "https://www.instagram.com/p/DeHEftrGEHr/",
+  "timestamp": "2026-10-05T11:10:29.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/timeoutbangkok/DeHEftrGEHr/image_1.jpg",
+    "data/timeoutbangkok/DeHEftrGEHr/image_2.jpg",
+    "data/timeoutbangkok/DeHEftrGEHr/image_3.jpg",
+    "data/timeoutbangkok/DeHEftrGEHr/image_4.jpg",
+    "data/timeoutbangkok/DeHEftrGEHr/image_5.jpg",
+    "data/timeoutbangkok/DeHEftrGEHr/image_6.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

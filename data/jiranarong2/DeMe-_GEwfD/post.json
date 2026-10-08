@@ -1,0 +1,25 @@
+{
+  "handle": "jiranarong2",
+  "category": "展覽",
+  "shortCode": "DeMe-_GEwfD",
+  "postUrl": "https://www.instagram.com/p/DeMe-_GEwfD/",
+  "timestamp": "2026-10-07T13:38:09.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/jiranarong2/DeMe-_GEwfD/image_1.jpg",
+    "data/jiranarong2/DeMe-_GEwfD/image_2.jpg",
+    "data/jiranarong2/DeMe-_GEwfD/image_3.jpg",
+    "data/jiranarong2/DeMe-_GEwfD/image_4.jpg",
+    "data/jiranarong2/DeMe-_GEwfD/image_5.jpg",
+    "data/jiranarong2/DeMe-_GEwfD/image_6.jpg",
+    "data/jiranarong2/DeMe-_GEwfD/image_7.jpg",
+    "data/jiranarong2/DeMe-_GEwfD/image_8.jpg",
+    "data/jiranarong2/DeMe-_GEwfD/image_9.jpg",
+    "data/jiranarong2/DeMe-_GEwfD/image_10.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

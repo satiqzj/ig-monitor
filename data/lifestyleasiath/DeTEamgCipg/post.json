@@ -1,0 +1,17 @@
+{
+  "handle": "lifestyleasiath",
+  "category": "旅遊",
+  "shortCode": "DeTEamgCipg",
+  "postUrl": "https://www.instagram.com/p/DeTEamgCipg/",
+  "timestamp": "2026-10-10T03:00:47.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/lifestyleasiath/DeTEamgCipg/image_1.jpg",
+    "data/lifestyleasiath/DeTEamgCipg/image_2.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

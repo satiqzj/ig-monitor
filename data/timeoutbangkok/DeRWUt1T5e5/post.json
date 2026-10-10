@@ -1,0 +1,16 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "DeRWUt1T5e5",
+  "postUrl": "https://www.instagram.com/p/DeRWUt1T5e5/",
+  "timestamp": "2026-10-09T11:00:14.000Z",
+  "type": "Video",
+  "images": [
+    "data/timeoutbangkok/DeRWUt1T5e5/image_1.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

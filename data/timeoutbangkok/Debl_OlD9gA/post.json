@@ -1,0 +1,16 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "Debl_OlD9gA",
+  "postUrl": "https://www.instagram.com/p/Debl_OlD9gA/",
+  "timestamp": "2026-10-13T10:27:58.000Z",
+  "type": "Image",
+  "images": [
+    "data/timeoutbangkok/Debl_OlD9gA/image_1.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

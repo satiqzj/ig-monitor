@@ -1,0 +1,25 @@
+{
+  "handle": "jiranarong2",
+  "category": "展覽",
+  "shortCode": "Deni-r0k7xo",
+  "postUrl": "https://www.instagram.com/p/Deni-r0k7xo/",
+  "timestamp": "2026-10-18T01:52:33.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/jiranarong2/Deni-r0k7xo/image_1.jpg",
+    "data/jiranarong2/Deni-r0k7xo/image_2.jpg",
+    "data/jiranarong2/Deni-r0k7xo/image_3.jpg",
+    "data/jiranarong2/Deni-r0k7xo/image_4.jpg",
+    "data/jiranarong2/Deni-r0k7xo/image_5.jpg",
+    "data/jiranarong2/Deni-r0k7xo/image_6.jpg",
+    "data/jiranarong2/Deni-r0k7xo/image_7.jpg",
+    "data/jiranarong2/Deni-r0k7xo/image_8.jpg",
+    "data/jiranarong2/Deni-r0k7xo/image_9.jpg",
+    "data/jiranarong2/Deni-r0k7xo/image_10.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

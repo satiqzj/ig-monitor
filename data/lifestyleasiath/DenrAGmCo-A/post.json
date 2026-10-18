@@ -1,0 +1,24 @@
+{
+  "handle": "lifestyleasiath",
+  "category": "旅遊",
+  "shortCode": "DenrAGmCo-A",
+  "postUrl": "https://www.instagram.com/p/DenrAGmCo-A/",
+  "timestamp": "2026-10-18T03:02:46.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/lifestyleasiath/DenrAGmCo-A/image_1.jpg",
+    "data/lifestyleasiath/DenrAGmCo-A/image_2.jpg",
+    "data/lifestyleasiath/DenrAGmCo-A/image_3.jpg",
+    "data/lifestyleasiath/DenrAGmCo-A/image_4.jpg",
+    "data/lifestyleasiath/DenrAGmCo-A/image_5.jpg",
+    "data/lifestyleasiath/DenrAGmCo-A/image_6.jpg",
+    "data/lifestyleasiath/DenrAGmCo-A/image_7.jpg",
+    "data/lifestyleasiath/DenrAGmCo-A/image_8.jpg",
+    "data/lifestyleasiath/DenrAGmCo-A/image_9.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

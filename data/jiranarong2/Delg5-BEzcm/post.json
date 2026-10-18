@@ -1,0 +1,25 @@
+{
+  "handle": "jiranarong2",
+  "category": "展覽",
+  "shortCode": "Delg5-BEzcm",
+  "postUrl": "https://www.instagram.com/p/Delg5-BEzcm/",
+  "timestamp": "2026-10-17T06:55:57.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/jiranarong2/Delg5-BEzcm/image_1.jpg",
+    "data/jiranarong2/Delg5-BEzcm/image_2.jpg",
+    "data/jiranarong2/Delg5-BEzcm/image_3.jpg",
+    "data/jiranarong2/Delg5-BEzcm/image_4.jpg",
+    "data/jiranarong2/Delg5-BEzcm/image_5.jpg",
+    "data/jiranarong2/Delg5-BEzcm/image_6.jpg",
+    "data/jiranarong2/Delg5-BEzcm/image_7.jpg",
+    "data/jiranarong2/Delg5-BEzcm/image_8.jpg",
+    "data/jiranarong2/Delg5-BEzcm/image_9.jpg",
+    "data/jiranarong2/Delg5-BEzcm/image_10.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

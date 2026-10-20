@@ -1,5 +1,18 @@
 [
   {
+    "handle": "bangkok_insiders",
+    "category": "展覽",
+    "place": "",
+    "vibe_tags": [],
+    "date_score": null,
+    "end_date": null,
+    "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）",
+    "caption": "☀️🥂 SO/ BANGKOK POOL PARTY IS BACK! Saint-Tropez comes to Bangkok! Get ready for Riviera vibes, poolside beats, sunshine and cocktails at the new Water Club.✨ 🗓️ Saturday, 31st October 2026 ⏰ 13:00–",
+    "image": "data/bangkok_insiders/DerHicCyNYW/image_1.jpg",
+    "postUrl": "https://www.instagram.com/p/DerHicCyNYW/",
+    "timestamp": "2026-10-19T11:10:47.000Z"
+  },
+  {
     "handle": "timeoutbangkok",
     "category": "市集",
     "place": "",
@@ -765,18 +778,5 @@
     "image": "data/lifestyleasiath/DeWEsifCl72/image_1.jpg",
     "postUrl": "https://www.instagram.com/p/DeWEsifCl72/",
     "timestamp": "2026-10-11T07:00:59.000Z"
-  },
-  {
-    "handle": "jiranarong2",
-    "category": "展覽",
-    "place": "",
-    "vibe_tags": [],
-    "date_score": null,
-    "end_date": null,
-    "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）",
-    "caption": "ใต้โรงแรมสุโขทัยมีร้านซูชิอยู่ร้านนึงชื่อ Sushi Mikasa เชฟชื่อเคนซัง เคยทำร้านซูชิโอมากาเสะอยู่หลายๆ ร้านในไทย ก่อนจะมาเปิดร้านนี้ ร้านนี้เป็นร้านที่ข้าวซูชิเข้มข้นมาก รสทั้งคำเลยหนักแน่นตามไปด้วย ใช้",
-    "image": "data/jiranarong2/DeVq_JHkyNh/image_1.jpg",
-    "postUrl": "https://www.instagram.com/p/DeVq_JHkyNh/",
-    "timestamp": "2026-10-11T03:16:12.000Z"
   }
 ]

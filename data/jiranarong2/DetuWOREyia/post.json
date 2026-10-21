@@ -1,0 +1,20 @@
+{
+  "handle": "jiranarong2",
+  "category": "展覽",
+  "shortCode": "DetuWOREyia",
+  "postUrl": "https://www.instagram.com/p/DetuWOREyia/",
+  "timestamp": "2026-10-20T11:27:20.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/jiranarong2/DetuWOREyia/image_1.jpg",
+    "data/jiranarong2/DetuWOREyia/image_2.jpg",
+    "data/jiranarong2/DetuWOREyia/image_3.jpg",
+    "data/jiranarong2/DetuWOREyia/image_4.jpg",
+    "data/jiranarong2/DetuWOREyia/image_5.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

@@ -1,0 +1,24 @@
+{
+  "handle": "lifestyleasiath",
+  "category": "旅遊",
+  "shortCode": "DestlOVioCR",
+  "postUrl": "https://www.instagram.com/p/DestlOVioCR/",
+  "timestamp": "2026-10-20T02:01:29.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/lifestyleasiath/DestlOVioCR/image_1.jpg",
+    "data/lifestyleasiath/DestlOVioCR/image_2.jpg",
+    "data/lifestyleasiath/DestlOVioCR/image_3.jpg",
+    "data/lifestyleasiath/DestlOVioCR/image_4.jpg",
+    "data/lifestyleasiath/DestlOVioCR/image_5.jpg",
+    "data/lifestyleasiath/DestlOVioCR/image_6.jpg",
+    "data/lifestyleasiath/DestlOVioCR/image_7.jpg",
+    "data/lifestyleasiath/DestlOVioCR/image_8.jpg",
+    "data/lifestyleasiath/DestlOVioCR/image_9.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

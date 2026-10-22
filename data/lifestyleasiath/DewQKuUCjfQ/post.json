@@ -1,0 +1,17 @@
+{
+  "handle": "lifestyleasiath",
+  "category": "旅遊",
+  "shortCode": "DewQKuUCjfQ",
+  "postUrl": "https://www.instagram.com/p/DewQKuUCjfQ/",
+  "timestamp": "2026-10-21T11:01:29.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/lifestyleasiath/DewQKuUCjfQ/image_1.jpg",
+    "data/lifestyleasiath/DewQKuUCjfQ/image_2.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

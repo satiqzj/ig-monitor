@@ -1,0 +1,21 @@
+{
+  "handle": "jiranarong2",
+  "category": "展覽",
+  "shortCode": "Dey07COky5o",
+  "postUrl": "https://www.instagram.com/p/Dey07COky5o/",
+  "timestamp": "2026-10-22T11:00:01.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/jiranarong2/Dey07COky5o/image_1.jpg",
+    "data/jiranarong2/Dey07COky5o/image_2.jpg",
+    "data/jiranarong2/Dey07COky5o/image_3.jpg",
+    "data/jiranarong2/Dey07COky5o/image_4.jpg",
+    "data/jiranarong2/Dey07COky5o/image_5.jpg",
+    "data/jiranarong2/Dey07COky5o/image_6.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

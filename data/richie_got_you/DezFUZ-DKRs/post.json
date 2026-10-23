@@ -1,0 +1,25 @@
+{
+  "handle": "richie.got.you",
+  "category": "旅遊",
+  "shortCode": "DezFUZ-DKRs",
+  "postUrl": "https://www.instagram.com/p/DezFUZ-DKRs/",
+  "timestamp": "2026-10-22T13:24:16.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/richie_got_you/DezFUZ-DKRs/image_1.jpg",
+    "data/richie_got_you/DezFUZ-DKRs/image_2.jpg",
+    "data/richie_got_you/DezFUZ-DKRs/image_3.jpg",
+    "data/richie_got_you/DezFUZ-DKRs/image_4.jpg",
+    "data/richie_got_you/DezFUZ-DKRs/image_5.jpg",
+    "data/richie_got_you/DezFUZ-DKRs/image_6.jpg",
+    "data/richie_got_you/DezFUZ-DKRs/image_7.jpg",
+    "data/richie_got_you/DezFUZ-DKRs/image_8.jpg",
+    "data/richie_got_you/DezFUZ-DKRs/image_9.jpg",
+    "data/richie_got_you/DezFUZ-DKRs/image_10.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

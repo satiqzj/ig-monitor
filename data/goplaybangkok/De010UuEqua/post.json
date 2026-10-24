@@ -1,0 +1,21 @@
+{
+  "handle": "goplaybangkok",
+  "category": "旅遊",
+  "shortCode": "De010UuEqua",
+  "postUrl": "https://www.instagram.com/p/De010UuEqua/",
+  "timestamp": "2026-10-23T05:47:17.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/goplaybangkok/De010UuEqua/image_1.jpg",
+    "data/goplaybangkok/De010UuEqua/image_2.jpg",
+    "data/goplaybangkok/De010UuEqua/image_3.jpg",
+    "data/goplaybangkok/De010UuEqua/image_4.jpg",
+    "data/goplaybangkok/De010UuEqua/image_5.jpg",
+    "data/goplaybangkok/De010UuEqua/image_6.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

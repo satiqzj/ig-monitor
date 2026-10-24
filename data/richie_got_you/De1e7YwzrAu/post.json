@@ -1,0 +1,16 @@
+{
+  "handle": "richie.got.you",
+  "category": "旅遊",
+  "shortCode": "De1e7YwzrAu",
+  "postUrl": "https://www.instagram.com/p/De1e7YwzrAu/",
+  "timestamp": "2026-10-23T12:25:07.000Z",
+  "type": "Video",
+  "images": [
+    "data/richie_got_you/De1e7YwzrAu/image_1.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

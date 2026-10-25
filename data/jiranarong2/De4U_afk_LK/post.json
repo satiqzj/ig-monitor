@@ -1,0 +1,23 @@
+{
+  "handle": "jiranarong2",
+  "category": "展覽",
+  "shortCode": "De4U_afk_LK",
+  "postUrl": "https://www.instagram.com/p/De4U_afk_LK/",
+  "timestamp": "2026-10-24T14:17:25.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/jiranarong2/De4U_afk_LK/image_1.jpg",
+    "data/jiranarong2/De4U_afk_LK/image_2.jpg",
+    "data/jiranarong2/De4U_afk_LK/image_3.jpg",
+    "data/jiranarong2/De4U_afk_LK/image_4.jpg",
+    "data/jiranarong2/De4U_afk_LK/image_5.jpg",
+    "data/jiranarong2/De4U_afk_LK/image_6.jpg",
+    "data/jiranarong2/De4U_afk_LK/image_7.jpg",
+    "data/jiranarong2/De4U_afk_LK/image_8.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

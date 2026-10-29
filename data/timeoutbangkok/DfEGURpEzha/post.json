@@ -1,0 +1,20 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "DfEGURpEzha",
+  "postUrl": "https://www.instagram.com/p/DfEGURpEzha/",
+  "timestamp": "2026-10-29T04:00:04.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/timeoutbangkok/DfEGURpEzha/image_1.jpg",
+    "data/timeoutbangkok/DfEGURpEzha/image_2.jpg",
+    "data/timeoutbangkok/DfEGURpEzha/image_3.jpg",
+    "data/timeoutbangkok/DfEGURpEzha/image_4.jpg",
+    "data/timeoutbangkok/DfEGURpEzha/image_5.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

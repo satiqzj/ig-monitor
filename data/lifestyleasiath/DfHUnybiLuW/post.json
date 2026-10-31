@@ -1,0 +1,25 @@
+{
+  "handle": "lifestyleasiath",
+  "category": "旅遊",
+  "shortCode": "DfHUnybiLuW",
+  "postUrl": "https://www.instagram.com/p/DfHUnybiLuW/",
+  "timestamp": "2026-10-30T10:02:53.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/lifestyleasiath/DfHUnybiLuW/image_1.jpg",
+    "data/lifestyleasiath/DfHUnybiLuW/image_2.jpg",
+    "data/lifestyleasiath/DfHUnybiLuW/image_3.jpg",
+    "data/lifestyleasiath/DfHUnybiLuW/image_4.jpg",
+    "data/lifestyleasiath/DfHUnybiLuW/image_5.jpg",
+    "data/lifestyleasiath/DfHUnybiLuW/image_6.jpg",
+    "data/lifestyleasiath/DfHUnybiLuW/image_7.jpg",
+    "data/lifestyleasiath/DfHUnybiLuW/image_8.jpg",
+    "data/lifestyleasiath/DfHUnybiLuW/image_9.jpg",
+    "data/lifestyleasiath/DfHUnybiLuW/image_10.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

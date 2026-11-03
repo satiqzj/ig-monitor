@@ -1,0 +1,22 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "DfPQZj3k0yR",
+  "postUrl": "https://www.instagram.com/p/DfPQZj3k0yR/",
+  "timestamp": "2026-11-02T11:59:49.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/timeoutbangkok/DfPQZj3k0yR/image_1.jpg",
+    "data/timeoutbangkok/DfPQZj3k0yR/image_2.jpg",
+    "data/timeoutbangkok/DfPQZj3k0yR/image_3.jpg",
+    "data/timeoutbangkok/DfPQZj3k0yR/image_4.jpg",
+    "data/timeoutbangkok/DfPQZj3k0yR/image_5.jpg",
+    "data/timeoutbangkok/DfPQZj3k0yR/image_6.jpg",
+    "data/timeoutbangkok/DfPQZj3k0yR/image_7.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

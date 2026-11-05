@@ -1,0 +1,16 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "DfUTbeMDboR",
+  "postUrl": "https://www.instagram.com/p/DfUTbeMDboR/",
+  "timestamp": "2026-11-04T11:02:52.000Z",
+  "type": "Video",
+  "images": [
+    "data/timeoutbangkok/DfUTbeMDboR/image_1.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

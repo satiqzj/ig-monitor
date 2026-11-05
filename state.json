@@ -1,7 +1,7 @@
 {
   "I.onbangkok": {
     "seen": [],
-    "lastRun": "2026-11-04T07:17:44.485Z"
+    "lastRun": "2026-11-05T07:45:35.881Z"
   },
   "bangkok_insiders": {
     "seen": [
@@ -59,9 +59,10 @@
       "DfMB1BfB5dl",
       "DfM20s-APBq",
       "DfTLKr8pQRb",
-      "DfTIGNIzjqQ"
+      "DfTIGNIzjqQ",
+      "DfWeXTDxjmf"
     ],
-    "lastRun": "2026-11-04T07:17:48.490Z"
+    "lastRun": "2026-11-05T07:45:38.657Z"
   },
   "jiranarong2": {
     "seen": [
@@ -198,9 +199,11 @@
       "DfLZOgXkxgl",
       "DfMLd1vkz_m",
       "DfPOEgqTszU",
-      "DfSEPzDE4kl"
+      "DfSEPzDE4kl",
+      "DfVzU3zE7nO",
+      "DfUXMYUTmSA"
     ],
-    "lastRun": "2026-11-04T07:17:56.652Z"
+    "lastRun": "2026-11-05T07:45:43.989Z"
   },
   "richie.got.you": {
     "seen": [
@@ -282,7 +285,7 @@
       "DfMg28CExXt",
       "DfRwjM-mQ1p"
     ],
-    "lastRun": "2026-11-04T07:18:04.027Z"
+    "lastRun": "2026-11-05T07:45:43.989Z"
   },
   "lifestyleasiath": {
     "seen": [
@@ -588,9 +591,10 @@
       "DfQwlIrk1X5",
       "DfT372GFdgV",
       "DfTVd1jijs-",
-      "DfRhHHmCrZT"
+      "DfRhHHmCrZT",
+      "DfUMZuVFYAP"
     ],
-    "lastRun": "2026-11-04T07:18:15.498Z"
+    "lastRun": "2026-11-05T07:45:46.563Z"
   },
   "aj.some.more": {
     "seen": [
@@ -720,9 +724,10 @@
       "DfKG9EthhUC",
       "DfMfi0mhawM",
       "DfRFD8vtYnQ",
-      "DfRhjeTA1mE"
+      "DfRhjeTA1mE",
+      "DfUpzHuhPk4"
     ],
-    "lastRun": "2026-11-04T07:18:19.601Z"
+    "lastRun": "2026-11-05T07:45:48.903Z"
   },
   "timeoutbangkok": {
     "seen": [
@@ -1152,9 +1157,15 @@
       "DfTb7WdTmiq",
       "DfR1eNMkwDN",
       "DfRwtxxE_4U",
-      "DfRm08Gjznw"
+      "DfRm08Gjznw",
+      "DfWdxmbTdrA",
+      "DfWOjwFDpp-",
+      "DfWA1Bmk0Zh",
+      "DfUd1ekk728",
+      "DfUTbeMDboR",
+      "DfUMOsPk13s"
     ],
-    "lastRun": "2026-11-04T07:18:38.977Z"
+    "lastRun": "2026-11-05T07:46:09.254Z"
   },
   "goplaybangkok": {
     "seen": [
@@ -1218,6 +1229,6 @@
       "DfHPyINEsPL",
       "DfR8K20RiqG"
     ],
-    "lastRun": "2026-11-04T07:18:17.569Z"
+    "lastRun": "2026-11-05T07:45:46.563Z"
   }
 }

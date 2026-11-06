@@ -1,0 +1,16 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "DfYuUmggR_b",
+  "postUrl": "https://www.instagram.com/p/DfYuUmggR_b/",
+  "timestamp": "2026-11-06T04:14:48.000Z",
+  "type": "Video",
+  "images": [
+    "data/timeoutbangkok/DfYuUmggR_b/image_1.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

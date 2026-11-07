@@ -1,0 +1,16 @@
+{
+  "handle": "timeoutbangkok",
+  "category": "市集",
+  "shortCode": "DfbiLigzPyr",
+  "postUrl": "https://www.instagram.com/p/DfbiLigzPyr/",
+  "timestamp": "2026-11-07T06:26:50.000Z",
+  "type": "Video",
+  "images": [
+    "data/timeoutbangkok/DfbiLigzPyr/image_1.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

@@ -1,0 +1,23 @@
+{
+  "handle": "lifestyleasiath",
+  "category": "旅遊",
+  "shortCode": "DfjPcrokymi",
+  "postUrl": "https://www.instagram.com/p/DfjPcrokymi/",
+  "timestamp": "2026-11-10T06:16:19.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/lifestyleasiath/DfjPcrokymi/image_1.jpg",
+    "data/lifestyleasiath/DfjPcrokymi/image_2.jpg",
+    "data/lifestyleasiath/DfjPcrokymi/image_3.jpg",
+    "data/lifestyleasiath/DfjPcrokymi/image_4.jpg",
+    "data/lifestyleasiath/DfjPcrokymi/image_5.jpg",
+    "data/lifestyleasiath/DfjPcrokymi/image_6.jpg",
+    "data/lifestyleasiath/DfjPcrokymi/image_7.jpg",
+    "data/lifestyleasiath/DfjPcrokymi/image_8.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

@@ -1,0 +1,19 @@
+{
+  "handle": "jiranarong2",
+  "category": "展覽",
+  "shortCode": "DfhdM6kkxee",
+  "postUrl": "https://www.instagram.com/p/DfhdM6kkxee/",
+  "timestamp": "2026-11-09T13:38:01.000Z",
+  "type": "Sidecar",
+  "images": [
+    "data/jiranarong2/DfhdM6kkxee/image_1.jpg",
+    "data/jiranarong2/DfhdM6kkxee/image_2.jpg",
+    "data/jiranarong2/DfhdM6kkxee/image_3.jpg",
+    "data/jiranarong2/DfhdM6kkxee/image_4.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}

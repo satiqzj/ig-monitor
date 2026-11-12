@@ -1,0 +1,16 @@
+{
+  "handle": "aj.some.more",
+  "category": "旅遊",
+  "shortCode": "DfoHi7MBbER",
+  "postUrl": "https://www.instagram.com/p/DfoHi7MBbER/",
+  "timestamp": "2026-11-12T03:44:13.000Z",
+  "type": "Video",
+  "images": [
+    "data/aj_some_more/DfoHi7MBbER/image_1.jpg"
+  ],
+  "place": "",
+  "vibe_tags": [],
+  "date_score": null,
+  "end_date": null,
+  "summary": "（分析失敗：Unexpected token 'O', \"OK\r\n\" is not valid JSON）"
+}
